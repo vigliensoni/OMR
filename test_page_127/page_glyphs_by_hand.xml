@@ -1,0 +1,2657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gamera-database version="2.0">
+  <symbols>
+    <symbol name="_group"/>
+    <symbol name="_group._part"/>
+    <symbol name="_group._part.clef.c"/>
+    <symbol name="_group._part.division.final"/>
+    <symbol name="_group._part.neume.cephalicus.2"/>
+    <symbol name="_group._part.neume.clivis.2"/>
+    <symbol name="_group._part.neume.clivis.3"/>
+    <symbol name="_group._part.neume.podatus.2.dot"/>
+    <symbol name="_group._part.neume.punctum.dot"/>
+    <symbol name="_group._part.neume.punctum.verticalepisema"/>
+    <symbol name="_group._part.neume.torculus.2.2.dot"/>
+    <symbol name="_split.cc_analysis"/>
+    <symbol name="_split.cc_and_cluster"/>
+    <symbol name="_split.splitx"/>
+    <symbol name="_split.splitx_left"/>
+    <symbol name="_split.splitx_max"/>
+    <symbol name="_split.splitx_right"/>
+    <symbol name="_split.splity"/>
+    <symbol name="_split.splity_bottom"/>
+    <symbol name="_split.splity_top"/>
+    <symbol name="alteration.bemol"/>
+    <symbol name="alteration.comma"/>
+    <symbol name="clef.c"/>
+    <symbol name="clef.f"/>
+    <symbol name="custos"/>
+    <symbol name="division.final"/>
+    <symbol name="division.major"/>
+    <symbol name="division.minor"/>
+    <symbol name="division.small"/>
+    <symbol name="neume.cephalicus.2"/>
+    <symbol name="neume.cephalicus.3"/>
+    <symbol name="neume.clivis.2"/>
+    <symbol name="neume.clivis.2.dot"/>
+    <symbol name="neume.clivis.2.horizontalepisema"/>
+    <symbol name="neume.clivis.3"/>
+    <symbol name="neume.clivis.3.dot"/>
+    <symbol name="neume.clivis.5.dot"/>
+    <symbol name="neume.compound.d2.u2.u2"/>
+    <symbol name="neume.compound.podatus.2.clivis.2.horizontalepisema"/>
+    <symbol name="neume.compound.u3.u2.u2.dot"/>
+    <symbol name="neume.epiphonus"/>
+    <symbol name="neume.epiphonus.2"/>
+    <symbol name="neume.epiphonus.3"/>
+    <symbol name="neume.epiphonus.5"/>
+    <symbol name="neume.epiphonus.verticalepisema"/>
+    <symbol name="neume.podatus.2"/>
+    <symbol name="neume.podatus.2.dot"/>
+    <symbol name="neume.podatus.2.horizontalepisema"/>
+    <symbol name="neume.podatus.3"/>
+    <symbol name="neume.podatus.3.dot"/>
+    <symbol name="neume.podatus.3.horizontalepisema"/>
+    <symbol name="neume.podatus.4"/>
+    <symbol name="neume.podatus.5"/>
+    <symbol name="neume.podatus.5.verticalepisema"/>
+    <symbol name="neume.porrectus.2.2.2"/>
+    <symbol name="neume.porrectus.2.2.3.dot"/>
+    <symbol name="neume.porrectus.3.2.2"/>
+    <symbol name="neume.porrectus.3.2.3.dot"/>
+    <symbol name="neume.porrectus.4.3.2"/>
+    <symbol name="neume.porrectus.4.3.2.dot"/>
+    <symbol name="neume.punctum"/>
+    <symbol name="neume.punctum.dot"/>
+    <symbol name="neume.punctum.inclinatum"/>
+    <symbol name="neume.punctum.inclinatum.dot"/>
+    <symbol name="neume.punctum.inclinatum.verticalepisema"/>
+    <symbol name="neume.punctum.verticalepisema"/>
+    <symbol name="neume.quilisma.u2.u2"/>
+    <symbol name="neume.quilisma.u2.u2.d2"/>
+    <symbol name="neume.quilisma.u2.u2.d3"/>
+    <symbol name="neume.scandicus.2.2"/>
+    <symbol name="neume.scandicus.2.2.dot"/>
+    <symbol name="neume.scandicus.2.3"/>
+    <symbol name="neume.scandicus.3.2"/>
+    <symbol name="neume.scandicus.5.2.verticalepisema"/>
+    <symbol name="neume.scandicus.5.verticalepisema"/>
+    <symbol name="neume.torculus.2.2"/>
+    <symbol name="neume.torculus.2.2.dot"/>
+    <symbol name="neume.torculus.2.2.horizontalepisema"/>
+    <symbol name="neume.torculus.2.2.verticalepisema"/>
+    <symbol name="neume.torculus.2.3"/>
+    <symbol name="neume.torculus.2.3.dot"/>
+    <symbol name="neume.torculus.2.5.dot"/>
+    <symbol name="neume.torculus.2.5.horizontalepisema"/>
+    <symbol name="neume.torculus.2.5.verticalepisema"/>
+    <symbol name="neume.torculus.3.2"/>
+    <symbol name="neume.torculus.3.3"/>
+    <symbol name="neume.torculus.4"/>
+    <symbol name="neume.torculus.4.2"/>
+    <symbol name="neume.torculus.5.2"/>
+    <symbol name="neume.virga"/>
+    <symbol name="neume.virga.dot"/>
+    <symbol name="skip"/>
+  </symbols>
+  <glyphs>
+    <glyph uly="115" ulx="537" nrows="6" ncols="5">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="0.765764"/>
+      </ids>
+      <data>
+        1 2 2 4 1 15 1 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="117" ulx="811" nrows="5" ncols="5">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="0.765432"/>
+      </ids>
+      <data>
+        1 3 1 15 1 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="571" ulx="859" nrows="14" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 3 12 2 111 1 13 1 13 1 13 2 2 7 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="523" ulx="556" nrows="78" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="division.final" confidence="1.000000"/>
+      </ids>
+      <data>
+        0 3 10 3 10 3 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 7 6 7 6 7 5
+        8 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 9 2 11 2 11 2 1 1 8 3 1 2 7 3 1 2 7 3
+        1 2 7 3 1 2 7 3 1 2 7 3 1 2 8 2 1 2 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8
+        5 8 5 8 5 8 5 8 5 8 2 1 2 8 2 1 2 8 5 8 5 8 6 7 6 7 6 7 6 7 6 7 2 1 3
+        7 2 1 3 7 2 1 3 7 2 1 3 7 6 6 6 7 6 7 6 7 6 7 6 7 6 7 6 7 6 7 6 7 6 7
+        6 7 6 7 6 7 6 7 6 7 6 7 3 
+      </data>
+    </glyph>
+    <glyph uly="581" ulx="493" nrows="15" ncols="22">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 10 13 9 13 9 13 2 5 2 13 1 7 1 12 2 20 3 19 3 19 3 19 4 19 4 4 1
+        13 9 13 9 4 6 2 11 2 19 0 
+      </data>
+    </glyph>
+    <glyph uly="174" ulx="572" nrows="24" ncols="22">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        16 4 17 6 16 7 15 7 15 7 15 7 16 5 25 7 14 10 12 11 10 13 9 13 9 13 9
+        13 9 13 9 13 9 13 9 13 9 13 9 13 9 13 9 13 10 11 10 0 
+      </data>
+    </glyph>
+    <glyph uly="557" ulx="814" nrows="39" ncols="40">
+      <ids state="AUTOMATIC">
+        <id name="neume.torculus.3.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        16 8 30 12 27 14 26 14 25 15 25 15 25 15 25 15 25 15 25 15 25 15 25
+        15 25 16 24 18 22 26 14 27 13 4 9 15 12 4 10 14 11 5 10 14 11 5 10 14
+        11 5 10 14 11 5 10 14 11 5 10 14 11 4 11 14 3 12 11 14 2 13 11 14 1
+        14 12 13 1 14 22 2 1 15 25 15 26 13 27 13 27 14 26 14 25 15 25 15 25
+        15 26 14 27 12 26 0 
+      </data>
+    </glyph>
+    <glyph uly="1114" ulx="876" nrows="28" ncols="12">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum.inclinatum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 4 8 4 8 4 8 4 8 4 8 4 8 5 7 6 5 8 4 8 4 8 3 10 2 10 1 24 1 11 1 10
+        3 9 4 8 4 7 6 6 7 5 8 3 9 2 10 2 10 2 10 2 10 2 4 0 
+      </data>
+    </glyph>
+    <glyph uly="557" ulx="688" nrows="31" ncols="27">
+      <ids state="AUTOMATIC">
+        <id name="neume.clivis.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 6 19 10 16 12 15 13 13 14 13 14 13 13 14 13 14 13 14 13 14 13 14 14
+        13 15 12 16 3 4 5 24 3 4 6 15 2 3 8 14 2 3 8 14 2 3 8 15 1 3 8 15 1 3
+        8 15 1 3 9 14 1 3 9 14 1 3 9 14 1 2 10 14 1 2 10 14 1 2 11 13 1 2 12
+        2 10 3 24 3 25 1 25 0 
+      </data>
+    </glyph>
+    <glyph uly="719" ulx="366" nrows="18" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        8 3 9 8 4 12 2 14 1 14 1 14 1 88 1 14 1 14 1 14 1 14 2 7 4 1 4 1 12 0
+        
+      </data>
+    </glyph>
+    <glyph uly="1794" ulx="612" nrows="7" ncols="8">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 6 1 32 1 6 3 4 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1083" ulx="218" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 3 12 1 126 1 13 1 13 1 13 1 13 2 2 7 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="336" ulx="1081" nrows="44" ncols="11">
+      <ids state="AUTOMATIC">
+        <id name="custos" confidence="1.000000"/>
+      </ids>
+      <data>
+        8 3 8 3 8 3 8 3 7 4 7 4 7 4 7 4 7 4 7 4 7 4 7 4 7 3 8 3 8 3 8 3 8 3 8
+        3 8 2 9 2 9 2 9 2 9 3 3 2 3 3 2 9 2 9 2 9 1 10 1 10 1 10 1 10 1 10 1
+        22 1 10 1 10 1 10 2 9 2 9 2 8 4 7 4 7 5 6 8 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="881" ulx="941" nrows="80" ncols="7">
+      <ids state="AUTOMATIC">
+        <id name="division.major" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3
+        4 3 4 3 4 3 4 3 4 3 4 3 4 3 5 2 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6
+        1 5 2 5 1 5 2 5 2 5 2 5 2 5 2 5 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3
+        4 3 4 3 4 3 4 3 4 3 4 3 4 3 5 2 5 2 5 2 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4
+        3 4 3 5 2 5 2 5 3 4 3 4 3 4 3 4 3 4 3 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="550" ulx="556" nrows="51" ncols="4">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 1 3 2 2 2 2 2 2 2 2 2 2 2 2 2 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1
+        3 1 3 1 3 1 3 2 2 2 2 1 3 1 3 1 20 1 3 1 3 1 3 1 10 1 3 1 3 1 3 1 3 1
+        3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1677" ulx="304" nrows="13" ncols="3">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.clivis.3" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 35 1 1 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1650" ulx="835" nrows="16" ncols="15">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.verticalepisema"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        2 10 4 12 3 13 1 14 1 104 1 14 1 14 1 14 1 14 2 4 6 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1273" ulx="922" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 5 8 7 6 13 1 168 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1604" ulx="569" nrows="79" ncols="15">
+      <ids state="HEURISTIC">
+        <id name="division.final" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 3 7 2 3 3 7 3 2 3 7 3 2 3 7 3 2 3 7 3 2 3 7 3 2 3 7 3 2 3 7 3 2 3 7
+        3 2 2 8 3 2 2 8 3 2 2 8 3 2 2 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 4
+        7 3 1 4 7 3 1 3 8 3 1 2 9 3 12 3 12 3 12 3 1 2 9 3 1 2 8 7 8 7 8 7 8
+        7 8 7 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3
+        8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 2 2 8 3 2 2 8 3 2
+        2 8 3 2 2 8 3 2 2 8 3 2 2 8 3 2 2 8 3 2 2 8 3 2 2 8 3 2 2 8 3 2 2 8 3
+        2 2 8 3 2 2 8 3 2 2 8 3 2 2 8 4 1 2 8 7 8 7 8 4 1 2 8 4 1 3 7 4 1 3 7
+        4 1 3 7 4 1 3 7 4 1 3 7 4 1 3 7 4 1 3 7 4 1 3 7 4 1 4 6 4 1 4 6 3 2 3
+        7 3 2 3 7 3 2 3 7 3 2 3 7 3 2 3 7 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1440" ulx="114" nrows="36" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 4 12 2 13 1 13 1 13 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12
+        2 2 6 4 1 3 6 186 1 13 2 11 4 1 13 1 13 1 13 1 13 1 10 0 
+      </data>
+    </glyph>
+    <glyph uly="1239" ulx="1014" nrows="6" ncols="4">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="0.786063"/>
+      </ids>
+      <data>
+        0 24 
+      </data>
+    </glyph>
+    <glyph uly="1099" ulx="509" nrows="25" ncols="24">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        17 4 19 6 17 8 16 9 15 9 15 9 16 7 17 6 19 4 6 7 15 12 11 14 10 14 10
+        14 10 14 10 14 10 14 10 14 10 14 10 14 10 14 10 14 10 14 10 14 11 12
+        11 0 
+      </data>
+    </glyph>
+    <glyph uly="899" ulx="394" nrows="17" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 7 5 10 3 12 1 181 2 3 10 0 
+      </data>
+    </glyph>
+    <glyph uly="356" ulx="106" nrows="33" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 5 7 8 4 10 2 11 1 12 1 12 1 12 1 13 1 12 1 12 1 12 1 12 1 12 1 12 1
+        12 1 3 4 5 2 2 4 5 1 11 2 11 1 12 1 12 1 12 1 12 1 103 1 11 3 3 9 0 
+      </data>
+    </glyph>
+    <glyph uly="1276" ulx="1012" nrows="8" ncols="10">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        3 4 5 6 3 8 1 9 1 10 1 9 1 8 3 6 2 0 
+      </data>
+    </glyph>
+    <glyph uly="708" ulx="146" nrows="39" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="clef.c" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 8 5 10 3 11 2 12 2 12 2 12 1 13 1 13 1 41 1 13 1 20 3 10 6 2 2 3 11
+        2 11 3 11 3 11 3 11 3 11 2 12 2 12 3 7 2 2 5 4 4 1 13 1 13 1 13 1 13
+        1 13 1 13 1 13 1 13 1 13 1 13 1 13 2 12 3 10 7 6 3 0 
+      </data>
+    </glyph>
+    <glyph uly="720" ulx="563" nrows="15" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        3 10 3 12 2 12 1 153 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="888" ulx="805" nrows="15" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 10 2 12 1 12 1 143 1 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1108" ulx="509" nrows="16" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        3 7 5 12 1 182 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1466" ulx="71" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 7 4 11 1 169 1 2 8 1 1 0 
+      </data>
+    </glyph>
+    <glyph uly="351" ulx="876" nrows="24" ncols="23">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        17 4 18 6 16 8 15 8 15 8 16 7 17 6 18 4 4 8 13 11 11 13 10 13 10 13
+        10 13 10 13 10 13 10 13 10 13 10 13 10 13 10 13 10 14 9 14 10 4 6 2
+        10 0 
+      </data>
+    </glyph>
+    <glyph uly="1423" ulx="639" nrows="28" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="alteration.bemol" confidence="1.000000"/>
+      </ids>
+      <data>
+        0 1 12 5 8 5 8 5 8 5 8 6 7 9 4 10 3 11 2 12 1 29 3 10 5 8 7 7 7 8 5 9
+        6 9 4 12 1 12 2 11 4 9 6 7 6 7 6 7 6 7 6 7 1 0 
+      </data>
+    </glyph>
+    <glyph uly="543" ulx="739" nrows="36" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 3 11 2 11 2 11 2 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12
+        2 2 5 4 9 4 2 1 6 4 1 155 1 12 8 5 9 3 10 3 10 3 10 3 12 1 1 0 
+      </data>
+    </glyph>
+    <glyph uly="557" ulx="777" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 4 6 11 1 169 1 4 5 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1454" ulx="588" nrows="15" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 2 2 2 6 10 3 11 2 12 1 12 1 12 1 12 1 12 1 11 2 11 2 11 2 38 1 11 1
+        0 
+      </data>
+    </glyph>
+    <glyph uly="174" ulx="1017" nrows="7" ncols="7">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 5 1 35 1 5 1 0 
+      </data>
+    </glyph>
+    <glyph uly="524" ulx="907" nrows="77" ncols="4">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 3 1 3 1 2 2
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 1 3 1 3 2 2 2 2 2 2 2 2 2 2
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+        3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="870" ulx="531" nrows="25" ncols="4">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 1 2 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 31
+        1 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="544" ulx="651" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 9 3 11 2 12 1 12 1 12 1 130 1 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="746" ulx="221" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 9 4 11 2 153 1 13 2 11 4 4 7 0 
+      </data>
+    </glyph>
+    <glyph uly="1783" ulx="1067" nrows="78" ncols="6">
+      <ids state="AUTOMATIC">
+        <id name="division.major" confidence="1.000000"/>
+      </ids>
+      <data>
+        0 174 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 4 2 3 2 4 2 4 2 4 2 4
+        2 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+        3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1252" ulx="581" nrows="24" ncols="22">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        16 4 17 6 16 7 15 7 15 7 15 6 17 4 19 2 4 10 11 12 10 12 10 12 10 12
+        10 12 10 12 10 12 10 12 10 12 10 12 10 12 10 12 10 13 9 13 10 2 5 4
+        10 0 
+      </data>
+    </glyph>
+    <glyph uly="544" ulx="57" nrows="17" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 8 5 11 2 13 1 182 1 2 7 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1467" ulx="993" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 4 11 2 13 1 13 1 13 1 140 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="339" ulx="17" nrows="22" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="_group._part.clef.c" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 1 11 3 10 3 10 3 10 3 10 3 10 4 5 2 2 5 3 4 1 142 1 12 1 12 2 10 1
+        0 
+      </data>
+    </glyph>
+    <glyph uly="1120" ulx="908" nrows="16" ncols="12">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        4 2 7 9 2 11 1 144 1 10 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1260" ulx="542" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 10 3 13 1 154 1 13 1 13 6 7 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1650" ulx="304" nrows="40" ncols="27">
+      <ids state="HEURISTIC">
+        <id name="neume.clivis.3" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 10 16 12 14 13 14 13 14 13 14 13 14 13 14 13 14 13 14 13 14 13 14
+        13 14 13 14 13 14 13 14 4 6 3 15 2 8 2 25 2 25 2 25 2 25 2 25 2 25 2
+        26 1 26 2 25 12 15 13 2 2 9 14 1 3 9 14 1 3 9 14 1 3 8 15 1 3 8 15 1
+        3 8 15 1 3 8 15 1 3 8 15 1 3 8 15 1 3 9 14 1 3 9 18 9 15 1 1 11 13 1
+        0 
+      </data>
+    </glyph>
+    <glyph uly="542" ulx="341" nrows="30" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 8 5 10 4 11 3 11 3 11 3 11 3 12 2 12 2 12 2 12 2 12 2 12 2 12 3 10
+        11 4 10 4 2 2 6 4 1 167 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="181" ulx="496" nrows="17" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        6 4 5 9 3 11 1 155 1 4 10 2 10 0 
+      </data>
+    </glyph>
+    <glyph uly="1650" ulx="506" nrows="16" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 10 2 175 2 3 2 3 9 0 
+      </data>
+    </glyph>
+    <glyph uly="183" ulx="780" nrows="40" ncols="26">
+      <ids state="AUTOMATIC">
+        <id name="neume.clivis.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 15 12 14 12 14 12 14 13 13 13 13 13 13 13 13 13 13 13 13 13 13
+        13 13 21 5 24 2 4 7 14 1 3 9 13 1 2 11 12 1 2 11 12 1 2 11 12 1 2 11
+        12 1 2 11 15 11 14 11 15 11 15 11 15 11 15 12 11 1 2 24 2 24 2 24 2
+        24 2 24 2 24 2 24 2 24 2 24 2 24 2 24 2 24 2 24 0 
+      </data>
+    </glyph>
+    <glyph uly="720" ulx="322" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 7 6 11 3 12 2 12 1 13 1 139 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="544" ulx="252" nrows="17" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 4 12 1 182 1 13 2 2 10 0 
+      </data>
+    </glyph>
+    <glyph uly="1443" ulx="208" nrows="15" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 11 3 13 1 105 1 14 1 14 1 14 1 14 1 14 2 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="181" ulx="230" nrows="30" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 6 6 10 3 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12
+        3 11 10 4 11 3 2 3 5 4 1 138 1 12 3 11 2 0 
+      </data>
+    </glyph>
+    <glyph uly="359" ulx="471" nrows="15" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 11 2 13 1 13 1 13 1 13 1 126 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="892" ulx="881" nrows="24" ncols="23">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        16 5 17 7 16 8 15 8 15 8 15 8 15 7 17 4 4 9 13 11 12 12 11 12 11 13
+        10 13 10 13 10 13 10 13 10 13 10 13 10 13 10 13 10 13 10 13 20 2 11 0
+        
+      </data>
+    </glyph>
+    <glyph uly="180" ulx="654" nrows="17" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 3 9 8 4 10 2 12 1 156 1 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1767" ulx="1026" nrows="44" ncols="24">
+      <ids state="HEURISTIC">
+        <id name="neume.podatus.2.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        17 4 19 6 17 8 16 9 15 9 15 9 15 8 4 7 6 6 3 10 6 2 5 12 12 12 12 12
+        12 12 12 12 12 13 11 13 11 13 11 13 11 13 11 13 12 12 13 4 3 4 20 4
+        20 4 12 12 11 13 11 13 3 6 2 13 2 8 1 23 1 23 1 23 1 14 1 8 1 13 3 6
+        2 13 5 2 4 13 11 13 11 13 11 13 11 13 11 13 11 13 11 13 11 13 11 13
+        11 0 
+      </data>
+    </glyph>
+    <glyph uly="163" ulx="925" nrows="36" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 8 6 8 6 8 6 8 6 8 6 9 4 11 3 11 3 12 2 12 2 12 2 12 2 12 2 12 2 12
+        2 12 2 12 2 12 2 12 2 4 4 4 2 4 4 4 1 13 1 13 1 111 1 13 1 13 1 13 1
+        13 2 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="351" ulx="891" nrows="8" ncols="8">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 4 3 6 1 24 1 7 2 6 3 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="545" ulx="202" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 2 13 1 13 1 167 2 5 4 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="711" ulx="1008" nrows="8" ncols="8">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 4 3 6 1 7 1 16 1 7 1 6 3 4 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1602" ulx="931" nrows="33" ncols="3">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 93 1 1 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1064" ulx="572" nrows="78" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="division.final" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7
+        2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3
+        7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3 7 2 2 4 6 3 1 4 6 3 1 4 6 3 1
+        4 6 3 1 4 6 3 1 4 6 3 1 3 7 3 1 3 7 3 1 3 7 3 1 3 7 3 1 3 7 3 1 3 7 3
+        1 3 7 3 1 3 7 3 1 3 7 3 1 3 7 3 1 3 7 3 1 3 7 3 1 3 7 3 1 3 7 3 1 3 7
+        3 1 3 6 4 1 3 6 3 2 3 7 2 2 3 7 2 2 3 7 2 1 5 5 9 5 9 5 9 5 9 5 9 5 8
+        7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+        7 7 7 7 7 7 7 7 7 7 3 
+      </data>
+    </glyph>
+    <glyph uly="1789" ulx="293" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 8 4 11 2 12 1 12 1 12 1 12 1 12 1 12 1 12 1 51 1 12 2 11 10 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="712" ulx="563" nrows="23" ncols="23">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        17 4 18 6 17 7 16 7 16 7 16 7 17 5 27 10 12 12 11 12 10 13 9 14 9 14
+        9 14 9 14 9 14 9 14 9 14 9 14 9 14 9 14 10 12 10 0 
+      </data>
+    </glyph>
+    <glyph uly="1802" ulx="192" nrows="54" ncols="38">
+      <ids state="AUTOMATIC">
+        <id name="neume.torculus.4.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        13 3 3 4 27 12 26 13 25 13 25 13 25 13 25 14 24 14 24 14 24 14 24 14
+        24 14 24 14 24 14 24 15 2 7 14 25 13 6 5 15 12 4 8 14 11 4 10 13 11 4
+        10 13 11 4 10 13 11 4 10 13 11 4 10 13 11 4 10 13 11 4 10 13 11 4 10
+        13 11 4 10 13 12 3 10 13 12 3 11 11 13 3 35 3 35 3 35 3 35 3 35 3 35
+        3 35 3 35 3 28 4 2 4 25 13 24 14 23 15 23 15 23 15 24 14 24 14 24 14
+        24 14 24 14 24 14 24 14 24 14 24 14 25 12 24 0 
+      </data>
+    </glyph>
+    <glyph uly="1247" ulx="795" nrows="17" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 6 6 8 4 11 2 167 2 4 8 0 
+      </data>
+    </glyph>
+    <glyph uly="1082" ulx="61" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 1 182 1 2 7 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1602" ulx="940" nrows="82" ncols="4">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 1 26 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1
+        3 1 3 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 3 1 3 1 3 1 3 1 3
+        1 3 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+        2 1 3 1 3 1 3 1 3 1 3 1 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1623" ulx="854" nrows="30" ncols="49">
+      <ids state="HEURISTIC">
+        <id name="neume.torculus.2.2.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        15 10 38 12 36 13 36 13 36 13 36 13 35 14 35 14 35 14 35 14 35 14 35
+        14 35 14 28 4 2 15 24 26 2 6 14 16 4 17 12 14 10 14 11 13 12 14 4 3 3
+        13 12 14 3 6 1 13 12 14 2 21 12 14 2 21 12 14 2 21 12 14 2 21 12 14 2
+        21 12 14 2 7 1 13 12 14 3 5 2 13 12 14 10 13 12 14 10 13 13 13 11 11
+        15 11 11 0 
+      </data>
+    </glyph>
+    <glyph uly="1095" ulx="357" nrows="17" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        7 3 7 11 3 13 2 13 2 13 2 13 2 13 2 13 2 13 2 13 2 14 1 28 1 14 1 14
+        2 13 4 3 4 3 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1648" ulx="759" nrows="17" ncols="15">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.verticalepisema"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        7 2 7 10 4 13 2 14 1 14 1 14 1 119 1 14 1 14 2 3 7 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1429" ulx="664" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        7 2 10 6 4 12 1 55 1 13 1 13 1 13 1 13 1 13 1 13 1 13 1 13 2 11 2 0 
+      </data>
+    </glyph>
+    <glyph uly="525" ulx="566" nrows="76" ncols="3">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 35 1 2 1 2 1 20 1 2 1 2 1 2
+        1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1
+        2 1 2 1 2 1 2 1 2 1 2 1 2 1 53 
+      </data>
+    </glyph>
+    <glyph uly="1602" ulx="931" nrows="83" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="division.final" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 1 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7
+        2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3
+        7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 6 7
+        6 6 7 6 7 6 7 6 6 7 5 8 3 10 3 10 3 10 3 10 3 10 3 10 3 10 3 10 3 10
+        3 11 2 11 2 11 2 11 2 11 2 11 2 11 2 11 2 11 2 11 2 1 1 9 2 1 2 7 3 1
+        3 6 3 1 3 6 3 1 3 6 3 1 3 6 3 1 3 6 3 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2
+        1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7
+        2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 7 2 1 3 6 3 1 3 6 3 1 3 6 3 1 3 6 3 1 3
+        6 3 1 3 6 2 2 3 10 0 
+      </data>
+    </glyph>
+    <glyph uly="1789" ulx="596" nrows="16" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        5 5 6 10 3 12 1 55 1 13 1 13 1 13 1 13 1 13 1 13 2 13 1 13 2 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1775" ulx="855" nrows="17" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 1 12 10 3 12 2 13 1 154 1 13 3 1 7 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1789" ulx="401" nrows="16" ncols="12">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 4 5 10 1 156 1 4 2 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1064" ulx="958" nrows="78" ncols="3">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        0 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1
+        2 1 2 1 2 1 2 1 2 1 2 1 20 1 2 1 47 1 2 1 20 1 2 1 2 1 2 1 2 1 2 1 2
+        1 51 
+      </data>
+    </glyph>
+    <glyph uly="164" ulx="1050" nrows="77" ncols="5">
+      <ids state="AUTOMATIC">
+        <id name="division.major" confidence="1.000000"/>
+      </ids>
+      <data>
+        0 150 1 4 1 4 1 224 
+      </data>
+    </glyph>
+    <glyph uly="1441" ulx="752" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 8 4 11 2 13 1 13 1 154 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1637" ulx="797" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 2 13 1 182 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="349" ulx="471" nrows="25" ncols="24">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        17 4 19 6 17 8 16 9 15 9 15 9 15 9 16 7 18 5 27 11 12 13 11 13 11 13
+        11 13 11 14 10 14 10 14 10 14 10 14 10 14 10 14 10 14 10 14 11 12 11
+        0 
+      </data>
+    </glyph>
+    <glyph uly="887" ulx="736" nrows="17" ncols="12">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 3 6 11 1 168 9 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="720" ulx="822" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 11 2 13 1 13 1 13 1 110 1 13 1 13 1 6 2 5 2 3 6 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1650" ulx="216" nrows="15" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.verticalepisema"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        1 11 1 174 4 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1805" ulx="951" nrows="7" ncols="2">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.cephalicus.2" confidence="0.500000"/>
+      </ids>
+      <data>
+        0 12 1 1 
+      </data>
+    </glyph>
+    <glyph uly="557" ulx="430" nrows="15" ncols="12">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 5 5 10 1 144 1 10 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1790" ulx="154" nrows="41" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="clef.c" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 4 6 10 2 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 64 1 5 3 4 1 4 6 1
+        2 3 10 3 10 3 10 3 10 3 10 3 10 3 10 4 9 5 4 2 2 12 1 51 1 12 1 12 1
+        12 1 12 1 12 1 12 1 12 2 11 4 8 6 6 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1773" ulx="652" nrows="24" ncols="4">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 1 2 3 1 3 1 3 1 3 1 3 1 3 1 3 1 60 1 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1252" ulx="596" nrows="8" ncols="7">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 4 2 6 1 27 2 4 4 2 3 0 
+      </data>
+    </glyph>
+    <glyph uly="360" ulx="567" nrows="28" ncols="26">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.clivis.2" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 11 14 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13
+        13 13 14 2 7 3 24 2 25 2 2 8 15 13 13 14 12 14 12 13 13 12 14 12 14
+        13 13 13 13 12 14 12 14 13 13 14 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1064" ulx="958" nrows="78" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="division.final" confidence="1.000000"/>
+      </ids>
+      <data>
+        0 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2 12 2
+        12 2 12 2 12 2 12 2 9 2 1 2 9 2 1 2 9 2 1 2 9 2 1 2 9 2 1 2 9 1 2 3 8
+        1 2 3 8 2 1 3 8 6 8 6 8 6 8 5 9 5 9 6 8 6 8 6 8 6 8 6 8 6 8 6 8 6 8 6
+        8 6 8 6 8 6 8 6 8 6 8 2 1 3 11 2 12 2 8 2 2 3 7 2 2 3 7 2 2 3 7 2 2 3
+        7 2 2 3 7 2 2 3 7 2 2 2 9 1 2 2 12 2 12 2 12 2 9 1 2 2 8 3 1 2 8 3 1
+        3 7 7 7 7 7 7 8 2 1 3 8 2 1 3 8 2 1 3 7 7 7 7 8 6 8 6 8 6 8 6 8 6 8 6
+        8 6 8 6 10 1 
+      </data>
+    </glyph>
+    <glyph uly="358" ulx="390" nrows="17" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 7 5 10 2 12 1 103 1 12 1 12 1 12 1 12 1 11 3 2 10 0 
+      </data>
+    </glyph>
+    <glyph uly="1082" ulx="111" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 2 181 1 3 9 0 
+      </data>
+    </glyph>
+    <glyph uly="1649" ulx="355" nrows="36" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.verticalepisema" confidence="1.000000"/>
+      </ids>
+      <data>
+        6 3 6 10 2 12 1 12 1 103 1 12 1 12 1 12 1 5 2 4 3 1 68 2 10 4 8 5 8 5
+        8 5 9 4 9 4 8 5 8 5 9 3 10 3 10 3 10 3 10 3 10 3 5 0 
+      </data>
+    </glyph>
+    <glyph uly="1604" ulx="570" nrows="21" ncols="4">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 2 2 2 2 2 2 2 1 3 1 3 1 3 1 3 1
+        11 1 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="360" ulx="200" nrows="15" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 2 12 1 12 1 103 1 12 1 12 1 12 2 11 
+      </data>
+    </glyph>
+    <glyph uly="1650" ulx="835" nrows="35" ncols="15">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.verticalepisema" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 4 12 3 13 1 14 1 104 1 14 1 14 1 14 1 14 2 4 6 2 68 3 11 5 10 5
+        10 5 10 5 10 5 10 5 10 5 10 5 10 5 10 4 11 4 11 4 11 4 11 4 6 0 
+      </data>
+    </glyph>
+    <glyph uly="719" ulx="487" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 8 4 11 2 13 1 13 1 111 1 13 1 13 1 13 2 11 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1763" ulx="817" nrows="42" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.3" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 2 11 8 6 11 3 13 2 14 1 14 1 14 1 14 1 14 1 13 2 13 2 12 3 12 3 12
+        4 11 11 4 13 2 14 1 14 2 13 2 13 2 13 2 13 2 13 2 13 2 13 2 12 3 2 13
+        1 14 1 14 1 105 1 14 1 14 1 14 2 12 6 8 2 0 
+      </data>
+    </glyph>
+    <glyph uly="349" ulx="486" nrows="9" ncols="9">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 4 4 6 2 8 1 36 1 7 3 5 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1096" ulx="749" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 2 12 1 167 2 5 7 0 
+      </data>
+    </glyph>
+    <glyph uly="182" ulx="268" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 2 13 1 13 1 41 1 13 1 13 1 13 1 13 1 13 1 13 2 12 2 13 1 13 2 2
+        5 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1654" ulx="931" nrows="31" ncols="3">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        0 1 2 2 1 87 
+      </data>
+    </glyph>
+    <glyph uly="1442" ulx="354" nrows="15" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 2 13 1 154 1 13 1 13 
+      </data>
+    </glyph>
+    <glyph uly="170" ulx="868" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 3 12 2 153 1 13 1 6 2 5 2 4 4 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1649" ulx="355" nrows="17" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.verticalepisema"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        6 3 6 10 2 12 1 12 1 103 1 12 1 12 1 12 1 5 2 4 3 1 10 0 
+      </data>
+    </glyph>
+    <glyph uly="1790" ulx="691" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 1 169 1 12 7 5 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1434" ulx="509" nrows="7" ncols="8">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 5 2 39 1 6 1 0 
+      </data>
+    </glyph>
+    <glyph uly="899" ulx="337" nrows="17" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 3 12 2 13 1 13 1 139 1 13 1 5 3 5 2 1 9 1 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1274" ulx="225" nrows="32" ncols="27">
+      <ids state="AUTOMATIC">
+        <id name="neume.clivis.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 10 16 12 14 14 13 14 13 14 13 14 13 14 13 14 13 13 14 13 14 13 14
+        14 2 9 2 26 1 26 1 26 2 25 2 3 7 15 2 2 9 14 1 3 9 14 1 3 9 14 1 3 9
+        14 1 3 9 14 1 3 9 14 1 3 10 13 1 2 10 17 10 17 10 5 4 4 1 3 11 3 10 3
+        24 3 24 3 25 1 25 0 
+      </data>
+    </glyph>
+    <glyph uly="1107" ulx="856" nrows="45" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.virga" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 5 7 10 4 12 3 13 2 13 2 13 1 90 1 13 2 13 2 13 2 4 4 5 12 3 13 2 13
+        2 13 2 13 2 13 2 12 3 12 3 12 3 12 3 12 3 12 3 12 3 12 3 12 4 11 4 11
+        4 11 4 11 4 11 4 11 3 12 3 12 3 12 3 12 3 12 4 11 4 11 4 12 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1421" ulx="1098" nrows="7" ncols="2">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="0.760217"/>
+      </ids>
+      <data>
+        0 14 
+      </data>
+    </glyph>
+    <glyph uly="1777" ulx="1093" nrows="33" ncols="9">
+      <ids state="AUTOMATIC">
+        <id name="custos" confidence="1.000000"/>
+      </ids>
+      <data>
+        6 2 7 2 7 2 7 2 6 3 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1
+        8 1 8 2 7 2 7 2 7 2 8 1 8 1 8 1 8 2 7 3 5 5 4 5 4 5 4 5 4 5 3 2 0 
+      </data>
+    </glyph>
+    <glyph uly="201" ulx="179" nrows="9" ncols="3">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.clivis.2" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 1 1 21 1 1 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1260" ulx="504" nrows="16" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 4 12 2 13 2 13 2 14 1 150 1 13 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1442" ulx="1091" nrows="18" ncols="9">
+      <ids state="AUTOMATIC">
+        <id name="custos" confidence="0.934543"/>
+      </ids>
+      <data>
+        1 2 6 4 3 92 1 8 1 8 1 8 2 7 2 7 3 5 1 0 
+      </data>
+    </glyph>
+    <glyph uly="345" ulx="801" nrows="31" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 8 4 10 2 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 2 11
+        8 5 8 5 7 175 1 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="359" ulx="251" nrows="15" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 10 2 12 1 168 1 0 
+      </data>
+    </glyph>
+    <glyph uly="524" ulx="896" nrows="78" ncols="15">
+      <ids state="HEURISTIC">
+        <id name="division.final" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8
+        2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 1 4 7 3 1 3 8 3 1 3 8 2 2 4
+        7 2 3 3 7 2 3 3 7 2 3 3 7 2 3 3 7 2 3 3 7 2 3 3 7 2 3 3 7 2 3 3 7 2 3
+        3 7 2 3 3 7 3 2 3 7 3 2 3 7 3 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2
+        2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 3 2 8 2 3 2 8
+        2 3 2 8 2 3 2 8 2 3 2 8 2 3 2 8 2 3 2 8 2 3 2 8 2 3 2 8 2 2 3 8 2 2 3
+        8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1 3 8 3 1
+        3 8 3 1 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2
+        2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 8 2 2 3 11 0 
+      </data>
+    </glyph>
+    <glyph uly="1242" ulx="1052" nrows="79" ncols="6">
+      <ids state="AUTOMATIC">
+        <id name="division.major" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 4 2 4 1 4 2 4 2 4 2 4 2 4 2
+        4 2 4 2 4 2 5 1 5 1 5 1 5 1 36 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1
+        5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5
+        1 5 1 89 1 5 1 5 1 5 1 5 1 5 1 5 
+      </data>
+    </glyph>
+    <glyph uly="1774" ulx="1026" nrows="37" ncols="23">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.podatus.2.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        3 7 14 10 12 12 11 12 11 12 11 12 11 12 11 13 10 13 10 13 10 13 10 13
+        10 13 11 12 12 4 3 4 19 4 19 4 11 12 10 13 10 13 3 6 1 13 2 91 1 21 3
+        6 1 13 5 2 3 13 10 13 10 13 10 13 10 13 10 13 10 13 10 13 10 13 10 13
+        10 0 
+      </data>
+    </glyph>
+    <glyph uly="1440" ulx="1042" nrows="31" ncols="16">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 7 7 11 4 13 3 13 3 12 4 12 4 12 4 13 3 13 3 13 3 13 3 13 3 13 3 13
+        4 12 4 12 3 14 1 159 1 15 2 14 2 14 3 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="720" ulx="784" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 3 12 2 13 1 13 1 96 1 13 1 13 2 12 2 12 3 3 5 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1789" ulx="780" nrows="17" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 5 5 11 1 181 2 2 10 0 
+      </data>
+    </glyph>
+    <glyph uly="1276" ulx="997" nrows="26" ncols="25">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        18 4 20 6 18 8 16 9 16 10 16 9 16 8 18 6 8 4 17 10 14 12 13 13 12 13
+        11 14 11 14 11 14 11 14 11 14 11 14 11 14 11 14 11 14 11 14 11 13 13
+        4 4 4 14 1 7 2 13 0 
+      </data>
+    </glyph>
+    <glyph uly="347" ulx="731" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 8 3 11 1 12 1 156 1 3 6 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1107" ulx="825" nrows="30" ncols="26">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.clivis.2" confidence="0.500000"/>
+      </ids>
+      <data>
+        4 6 17 10 15 12 14 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13
+        14 12 14 12 14 13 2 5 6 24 2 2 7 16 11 15 12 14 13 13 13 13 13 13 13
+        13 13 13 13 13 13 13 13 13 13 13 14 11 16 2 9 0 
+      </data>
+    </glyph>
+    <glyph uly="1776" ulx="893" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 6 4 11 1 143 1 12 1 12 2 2 5 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1241" ulx="769" nrows="28" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="alteration.bemol" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 6 7 6 7 6 7 6 7 7 6 9 4 10 3 11 2 12 1 12 1 2 2 10 5 9 6 8 6 8 6 8
+        7 8 5 26 1 12 2 11 4 9 5 8 5 8 5 8 5 8 5 8 5 8 
+      </data>
+    </glyph>
+    <glyph uly="1120" ulx="908" nrows="16" ncols="24">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 2 19 9 14 11 13 12 12 12 5 2 5 12 4 6 2 12 3 8 1 12 3 8 1 12 3 21 3
+        21 4 7 1 12 5 4 3 12 12 12 12 12 13 10 13 0 
+      </data>
+    </glyph>
+    <glyph uly="1107" ulx="825" nrows="37" ncols="26">
+      <ids state="HEURISTIC">
+        <id name="neume.clivis.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 6 17 10 15 12 14 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13
+        14 12 14 12 14 13 2 5 6 24 2 2 7 16 11 15 12 14 1 2 10 13 1 2 10 13 1
+        2 10 13 1 2 10 16 10 16 10 16 10 16 10 16 10 13 1 1 12 11 16 2 10 2
+        24 2 24 2 24 2 24 2 24 2 24 2 23 0 
+      </data>
+    </glyph>
+    <glyph uly="524" ulx="896" nrows="78" ncols="4">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 10 1 3 1 4 1 3
+        1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1
+        3 1 3 1 3 1 3 1 3 1 3 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 3 1 3 1 3
+        1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1
+        3 1 3 1 3 1 3 1 3 1 3 1 3 
+      </data>
+    </glyph>
+    <glyph uly="1789" ulx="450" nrows="16" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        6 4 7 11 3 13 2 13 1 14 1 14 1 14 2 13 2 12 3 12 3 13 2 14 1 14 1 14
+        1 14 2 4 4 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1259" ulx="834" nrows="17" ncols="12">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 3 5 9 2 11 1 156 1 2 6 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="899" ulx="438" nrows="16" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 6 6 12 2 14 1 14 1 14 1 150 1 13 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1641" ulx="506" nrows="25" ncols="23">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        18 3 19 5 17 7 15 8 15 8 16 7 17 6 18 4 26 10 12 12 10 13 10 13 10 13
+        10 13 10 13 10 13 10 13 10 13 10 13 10 13 10 13 10 13 10 7 2 3 12 3
+        19 0 
+      </data>
+    </glyph>
+    <glyph uly="1081" ulx="156" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 2 8 10 2 12 1 12 1 12 1 12 1 116 2 10 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1070" ulx="712" nrows="15" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 5 6 10 2 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 51 2 10 2 0 
+      </data>
+    </glyph>
+    <glyph uly="358" ulx="1035" nrows="37" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 9 3 11 2 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12
+        2 11 2 11 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12
+        1 12 1 25 2 2 11 2 11 2 11 2 11 2 11 2 10 0 
+      </data>
+    </glyph>
+    <glyph uly="358" ulx="156" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 8 3 11 1 12 1 156 1 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1231" ulx="622" nrows="24" ncols="4">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 3 1 3 1 3 1 3 1 3 1 3 1 3 2 2 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1
+        3 1 15 1 3 2 1 1 0 
+      </data>
+    </glyph>
+    <glyph uly="211" ulx="179" nrows="7" ncols="3">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.clivis.2" confidence="0.500000"/>
+      </ids>
+      <data>
+        0 20 1 0 
+      </data>
+    </glyph>
+    <glyph uly="719" ulx="993" nrows="17" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        5 4 7 10 3 12 1 13 1 111 1 13 1 13 1 13 1 13 2 4 5 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1789" ulx="520" nrows="15" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 3 12 1 13 1 154 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="558" ulx="291" nrows="28" ncols="26">
+      <ids state="AUTOMATIC">
+        <id name="neume.clivis.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 10 15 12 14 12 14 12 14 12 14 12 14 12 14 12 14 12 14 12 14 12 14
+        13 2 8 3 24 2 25 1 4 7 14 1 3 8 18 8 18 8 18 8 18 8 17 10 16 11 15 11
+        15 11 16 10 4 5 7 11 1 11 3 23 3 23 0 
+      </data>
+    </glyph>
+    <glyph uly="1442" ulx="165" nrows="15" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 4 11 2 13 1 13 1 111 1 13 1 13 2 11 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1260" ulx="385" nrows="16" ncols="12">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 10 1 160 5 3 1 2 7 1 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1259" ulx="870" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 7 6 10 3 12 2 13 1 111 1 13 1 13 1 13 2 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="900" ulx="1038" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 7 5 10 3 12 2 125 1 13 1 13 1 13 2 4 3 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="898" ulx="160" nrows="18" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 3 8 9 4 11 2 13 1 13 1 13 1 13 1 132 4 3 2 3 10 0 
+      </data>
+    </glyph>
+    <glyph uly="899" ulx="477" nrows="17" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        4 3 7 10 2 12 1 156 1 12 10 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="503" ulx="19" nrows="44" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="clef.c" confidence="1.000000"/>
+      </ids>
+      <data>
+        8 2 11 2 6 9 3 11 1 173 3 8 10 2 11 2 11 3 8 1 1 3 8 1 1 3 8 1 1 3 8
+        1 1 3 8 1 1 3 8 1 1 3 8 1 1 4 5 160 1 12 4 8 7 5 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1279" ulx="1090" nrows="27" ncols="10">
+      <ids state="AUTOMATIC">
+        <id name="custos" confidence="1.000000"/>
+      </ids>
+      <data>
+        7 1 8 3 7 3 7 3 7 3 7 3 8 2 3 2 3 2 2 8 2 8 2 8 1 9 1 9 1 50 1 9 1 8
+        2 8 2 8 2 8 3 7 4 6 6 4 7 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1789" ulx="596" nrows="16" ncols="24">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 5 16 10 13 12 11 14 10 14 10 14 3 6 1 13 3 21 3 21 3 21 3 21 4 6 1
+        13 5 4 2 13 12 13 11 13 12 11 11 0 
+      </data>
+    </glyph>
+    <glyph uly="1670" ulx="840" nrows="15" ncols="5">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.verticalepisema"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        1 3 1 49 1 4 1 4 1 4 1 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="152" ulx="620" nrows="24" ncols="5">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 2 2 4 1 4 1 4 1 4 1 4 1 3 2 3 1 35 1 4 1 4 1 4 1 4 1 19 1 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1081" ulx="445" nrows="17" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 5 7 10 4 12 3 13 2 13 2 13 1 14 1 90 1 14 1 14 1 13 3 2 6 3 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1637" ulx="115" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 8 4 11 1 169 1 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="720" ulx="658" nrows="15" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 3 12 2 13 1 13 1 13 1 96 1 13 1 13 2 11 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1071" ulx="22" nrows="40" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="clef.c" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 7 7 9 5 11 4 12 3 12 3 12 3 12 2 13 2 13 1 14 1 14 1 14 1 14 1 14 1
+        5 6 2 3 3 12 4 11 4 11 4 11 4 11 4 11 4 11 4 11 5 11 5 4 2 4 12 3 12
+        3 13 2 13 2 13 2 13 2 13 2 13 2 13 2 13 2 13 2 13 3 11 6 8 8 5 4 0 
+      </data>
+    </glyph>
+    <glyph uly="1670" ulx="220" nrows="13" ncols="6">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.verticalepisema"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        1 3 2 5 1 5 1 30 1 4 2 4 3 2 4 2 4 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="926" ulx="987" nrows="16" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 12 2 14 1 14 1 14 1 14 1 14 1 120 1 14 3 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="891" ulx="491" nrows="8" ncols="8">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 5 2 39 1 7 2 5 1 0 
+      </data>
+    </glyph>
+    <glyph uly="320" ulx="17" nrows="18" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="_group._part.clef.c" confidence="0.500000"/>
+      </ids>
+      <data>
+        5 6 4 10 2 12 1 12 1 154 2 3 10 2 10 0 
+      </data>
+    </glyph>
+    <glyph uly="1638" ulx="443" nrows="15" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 2 13 1 13 1 13 1 126 1 13 3 10 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1131" ulx="889" nrows="19" ncols="11">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum.inclinatum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 2 8 4 7 5 5 7 4 7 4 8 2 76 1 10 2 8 4 7 4 6 6 5 7 3 3 0 
+      </data>
+    </glyph>
+    <glyph uly="1650" ulx="216" nrows="33" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.verticalepisema" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 1 174 4 3 71 3 9 5 8 5 8 6 7 6 7 6 7 6 7 6 8 4 9 4 10 2 11 2 11
+        2 5 0 
+      </data>
+    </glyph>
+    <glyph uly="1111" ulx="968" nrows="8" ncols="2">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        0 14 1 1 
+      </data>
+    </glyph>
+    <glyph uly="174" ulx="587" nrows="7" ncols="7">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 4 2 6 1 28 1 5 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1239" ulx="965" nrows="6" ncols="2">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="0.748960"/>
+      </ids>
+      <data>
+        0 12 
+      </data>
+    </glyph>
+    <glyph uly="888" ulx="21" nrows="39" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="clef.c" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 8 4 11 2 12 2 12 2 12 2 12 2 12 2 12 2 12 1 13 1 13 1 13 1 13 1 13
+        1 5 5 3 1 4 7 1 3 3 11 4 9 5 9 5 9 5 9 5 9 5 9 6 8 13 1 14 1 13 1 13
+        1 13 1 26 1 13 1 13 1 13 2 12 2 12 3 11 4 10 7 6 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1458" ulx="911" nrows="9" ncols="10">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        3 5 3 8 1 30 1 9 2 7 4 5 7 2 3 0 
+      </data>
+    </glyph>
+    <glyph uly="581" ulx="493" nrows="15" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 11 1 64 1 12 1 12 1 12 1 12 1 43 6 2 2 2 10 0 
+      </data>
+    </glyph>
+    <glyph uly="723" ulx="1085" nrows="42" ncols="10">
+      <ids state="AUTOMATIC">
+        <id name="custos" confidence="1.000000"/>
+      </ids>
+      <data>
+        7 2 7 3 7 4 6 4 6 4 6 4 6 4 6 4 6 4 6 4 6 4 6 4 6 3 7 3 7 4 6 4 6 4 6
+        4 6 4 6 4 6 4 5 5 2 7 2 8 2 8 1 70 1 9 2 8 2 8 2 8 2 8 2 8 3 7 4 6 5
+        5 7 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1467" ulx="897" nrows="16" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 11 2 139 1 13 1 13 1 13 2 11 4 2 9 0 
+      </data>
+    </glyph>
+    <glyph uly="359" ulx="971" nrows="40" ncols="26">
+      <ids state="AUTOMATIC">
+        <id name="neume.clivis.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 8 17 11 14 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13
+        13 14 12 19 7 22 4 4 7 13 2 3 9 13 1 2 11 12 1 2 11 12 1 2 11 16 10
+        16 10 16 10 16 10 16 10 16 10 16 10 16 10 15 12 14 17 6 1 2 24 2 24 2
+        24 2 24 2 24 2 24 2 24 2 24 2 24 2 24 0 
+      </data>
+    </glyph>
+    <glyph uly="1650" ulx="305" nrows="40" ncols="26">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.clivis.3" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 10 15 12 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13
+        13 13 13 13 13 13 13 13 4 6 3 14 2 8 2 24 2 24 2 24 2 24 2 24 2 24 2
+        25 1 25 2 24 12 14 13 12 14 12 14 12 14 11 15 11 15 11 15 11 15 11 15
+        11 15 12 14 12 15 11 15 12 13 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1434" ulx="493" nrows="24" ncols="24">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        18 5 18 7 16 8 16 8 16 8 16 8 17 6 27 10 13 12 11 13 11 13 11 13 11
+        13 11 13 11 13 11 13 11 13 11 13 11 13 11 13 11 13 12 12 21 2 12 0 
+      </data>
+    </glyph>
+    <glyph uly="701" ulx="1048" nrows="79" ncols="5">
+      <ids state="AUTOMATIC">
+        <id name="division.major" confidence="1.000000"/>
+      </ids>
+      <data>
+        0 60 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 33 1 4 1 4 1 135 1
+        4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4
+        1 4 1 4 
+      </data>
+    </glyph>
+    <glyph uly="1598" ulx="64" nrows="42" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.3" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 8 6 10 4 12 3 13 1 14 1 14 1 14 1 14 1 14 1 14 1 14 1 14 1 14 1 13
+        3 12 11 4 12 3 12 3 12 3 12 3 12 3 12 3 12 3 12 3 12 3 3 2 6 4 2 13 2
+        13 1 14 1 14 1 14 1 14 1 14 1 14 1 14 1 14 2 13 2 13 2 13 2 13 3 12 4
+        10 2 0 
+      </data>
+    </glyph>
+    <glyph uly="183" ulx="179" nrows="35" ncols="26">
+      <ids state="HEURISTIC">
+        <id name="neume.clivis.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 16 12 14 13 12 14 12 14 12 14 12 14 12 14 12 14 12 14 12 14 12 14
+        12 14 12 15 3 5 3 25 2 3 6 16 1 2 9 14 13 13 1 1 12 15 11 15 11 15 11
+        15 11 15 11 15 11 15 10 13 1 1 11 13 14 11 1 3 23 3 23 3 23 3 23 3 23
+        3 23 2 24 0 
+      </data>
+    </glyph>
+    <glyph uly="360" ulx="566" nrows="41" ncols="27">
+      <ids state="HEURISTIC">
+        <id name="neume.clivis.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 11 15 13 14 13 14 13 14 13 14 13 14 13 14 13 14 13 14 13 14 13 14
+        13 14 14 2 7 4 24 3 25 3 2 8 15 14 13 15 12 15 12 14 13 13 14 13 14
+        14 13 14 13 13 14 13 14 14 13 15 11 56 2 25 2 25 2 25 2 25 2 25 2 25
+        2 25 2 24 3 24 3 24 3 24 0 
+      </data>
+    </glyph>
+    <glyph uly="1423" ulx="952" nrows="78" ncols="6">
+      <ids state="AUTOMATIC">
+        <id name="division.major" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 3 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 2 4 2 4 2
+        4 2 4 1 5 1 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 1 18 1 5 1
+        5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 5 1 47 1 5 1 5 1 5 1 5 1 5 1
+        5 2 4 2 4 2 4 1 5 1 5 1 5 1 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4
+        1 0 
+      </data>
+    </glyph>
+    <glyph uly="1789" ulx="559" nrows="17" ncols="12">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 4 5 10 1 156 1 10 6 4 3 0 
+      </data>
+    </glyph>
+    <glyph uly="1064" ulx="582" nrows="78" ncols="4">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+        2 2 2 2 2 2 2 2 2 2 2 2 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3
+        1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 10 2 2 2 2 2 2 1 24 1 3 1 3 1 3 1 3
+        1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1
+        3 1 3 
+      </data>
+    </glyph>
+    <glyph uly="182" ulx="572" nrows="16" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 7 5 10 3 11 1 156 1 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="170" ulx="831" nrows="40" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.3" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 4 11 3 11 3 11 3 11 3 11 3 11 3 11 3 11 3 11 3 11 3 12 2 12 3 12
+        10 4 11 3 11 3 11 3 11 3 11 3 11 3 11 3 11 3 11 3 11 3 10 4 2 12 1 12
+        2 12 2 13 1 13 1 13 1 12 2 12 1 13 1 13 1 13 1 12 3 11 4 9 3 0 
+      </data>
+    </glyph>
+    <glyph uly="544" ulx="107" nrows="17" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 6 5 11 2 13 1 13 1 13 1 111 1 13 1 13 1 13 2 3 6 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="545" ulx="145" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 2 13 1 13 1 13 1 13 1 140 1 4 2 6 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1442" ulx="259" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 2 13 1 168 1 13 11 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1790" ulx="355" nrows="15" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 11 3 13 2 13 2 13 1 14 1 14 1 14 1 14 1 14 2 13 2 13 2 13 2 14 1 14
+        2 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="899" ulx="255" nrows="17" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 7 6 11 3 13 2 14 1 14 1 14 1 90 1 14 1 13 2 13 2 13 3 2 7 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1260" ulx="435" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 1 182 1 4 4 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="584" ulx="507" nrows="8" ncols="8">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 5 2 7 1 8 1 7 1 7 1 7 2 6 3 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1773" ulx="950" nrows="31" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.cephalicus.2" confidence="0.500000"/>
+      </ids>
+      <data>
+        3 6 6 10 3 12 2 13 1 13 1 143 5 6 8 6 6 8 5 9 5 9 5 9 5 9 5 9 5 9 5 9
+        5 9 5 9 6 8 6 8 7 7 9 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1649" ulx="632" nrows="34" ncols="15">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.verticalepisema" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 8 6 11 4 12 3 13 1 105 1 14 1 13 2 14 1 14 2 12 12 2 83 3 11 5 10 5
+        10 5 10 5 10 5 10 5 10 5 10 4 12 3 12 3 12 3 6 0 
+      </data>
+    </glyph>
+    <glyph uly="347" ulx="643" nrows="41" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.3" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 10 2 12 1 12 1 12 1 12 1 104 1 3 4 5 10 3 11 2 10 3 10 3 10 3 10 3
+        10 3 10 3 11 2 11 2 11 2 10 3 1 181 1 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1258" ulx="277" nrows="32" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 7 5 9 3 11 2 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 2
+        4 3 4 2 3 5 3 1 4 4 186 1 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="708" ulx="917" nrows="15" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 3 12 1 167 2 11 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1260" ulx="340" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 1 175 2 5 1 3 5 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="898" ulx="110" nrows="17" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        6 3 6 10 3 12 2 13 1 13 1 13 1 140 1 5 2 5 1 0 
+      </data>
+    </glyph>
+    <glyph uly="708" ulx="861" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 2 13 1 167 1 12 3 2 11 0 
+      </data>
+    </glyph>
+    <glyph uly="925" ulx="66" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 10 3 12 2 12 2 12 2 13 1 140 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1126" ulx="825" nrows="10" ncols="3">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.clivis.2" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 2 1 2 1 2 1 17 1 1 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1455" ulx="821" nrows="16" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 4 12 3 13 2 13 1 164 2 6 2 4 2 0 
+      </data>
+    </glyph>
+    <glyph uly="320" ulx="17" nrows="41" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="clef.c" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 6 4 10 2 12 1 12 1 154 2 3 10 2 25 1 11 3 10 3 10 3 10 3 10 3 10 4
+        5 2 2 5 3 4 1 142 1 12 1 12 2 10 1 0 
+      </data>
+    </glyph>
+    <glyph uly="160" ulx="1081" nrows="43" ncols="10">
+      <ids state="AUTOMATIC">
+        <id name="custos" confidence="1.000000"/>
+      </ids>
+      <data>
+        6 2 8 2 8 2 8 2 8 3 7 3 7 3 7 3 7 3 7 3 7 3 7 3 7 3 7 3 7 3 7 3 7 3 7
+        3 7 3 7 4 6 4 6 4 1 3 1 24 1 9 1 9 1 9 1 9 1 70 1 9 1 9 2 8 3 7 5 5 6
+        4 7 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="899" ulx="205" nrows="17" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 9 3 11 2 12 1 169 1 2 8 1 1 0 
+      </data>
+    </glyph>
+    <glyph uly="174" ulx="1001" nrows="24" ncols="23">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        17 5 17 7 16 7 16 7 16 7 16 7 17 5 6 5 16 9 12 12 10 14 9 14 9 14 9
+        14 9 14 9 14 9 14 9 14 9 14 9 14 9 14 9 14 10 13 10 4 5 4 9 0 
+      </data>
+    </glyph>
+    <glyph uly="712" ulx="579" nrows="7" ncols="7">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 4 2 6 1 28 1 5 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1082" ulx="269" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 6 5 9 3 11 1 143 1 12 2 2 5 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1082" ulx="636" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 9 3 11 2 12 1 143 1 12 10 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="900" ulx="571" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 3 12 1 168 1 12 3 2 10 0 
+      </data>
+    </glyph>
+    <glyph uly="719" ulx="259" nrows="17" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 5 5 12 1 186 6 4 1 2 8 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1082" ulx="673" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 9 4 11 2 181 1 3 7 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="359" ulx="332" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 3 12 1 13 1 13 1 154 1 5 4 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1442" ulx="455" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 10 3 12 2 13 1 140 1 13 2 12 11 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="900" ulx="647" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 10 3 12 2 13 1 168 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="359" ulx="55" nrows="45" ncols="26">
+      <ids state="AUTOMATIC">
+        <id name="neume.clivis.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 5 18 10 15 12 14 12 14 12 14 12 14 12 14 12 14 12 14 12 14 12 14 12
+        14 12 14 13 13 24 2 25 1 4 7 18 9 17 9 17 9 17 9 17 9 17 9 17 9 17 9
+        17 9 17 9 17 9 17 9 13 1 3 10 11 2 3 23 3 23 3 23 3 23 3 23 3 23 3 23
+        2 24 2 24 2 24 2 24 2 24 2 24 2 24 2 24 0 
+      </data>
+    </glyph>
+    <glyph uly="719" ulx="417" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 7 5 10 3 12 2 13 1 13 1 82 1 13 1 13 1 13 1 13 2 11 2 0 
+      </data>
+    </glyph>
+    <glyph uly="711" ulx="993" nrows="25" ncols="23">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        17 4 18 6 16 7 16 8 15 8 16 7 16 6 18 4 7 4 16 10 12 12 10 13 10 14 9
+        14 9 14 9 14 9 14 9 14 9 14 9 13 10 13 10 13 10 13 10 13 11 4 5 2 11
+        0 
+      </data>
+    </glyph>
+    <glyph uly="181" ulx="331" nrows="17" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 8 5 10 3 12 1 168 1 13 11 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1284" ulx="997" nrows="18" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        6 4 6 10 3 12 2 13 1 166 2 4 4 4 3 1 7 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1604" ulx="580" nrows="79" ncols="4">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 2 2 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1
+        3 1 3 1 3 1 3 1 3 1 3 1 3 1 26 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1
+        3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3
+        1 3 1 59 1 3 1 3 1 3 1 3 1 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1458" ulx="897" nrows="25" ncols="24">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        17 5 17 8 15 10 14 10 14 10 15 9 16 7 18 5 21 2 5 11 12 13 10 14 10
+        14 10 14 10 14 10 14 10 14 10 14 10 14 10 14 11 13 11 13 11 13 12 11
+        14 2 19 0 
+      </data>
+    </glyph>
+    <glyph uly="359" ulx="876" nrows="16" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        3 8 4 11 2 13 1 13 1 13 1 13 1 13 1 13 1 13 1 13 1 13 1 13 1 13 1 28
+        1 4 6 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1082" ulx="788" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 6 6 10 2 12 1 155 2 3 5 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="879" ulx="1087" nrows="41" ncols="9">
+      <ids state="AUTOMATIC">
+        <id name="custos" confidence="1.000000"/>
+      </ids>
+      <data>
+        6 2 7 2 7 2 7 2 7 2 7 2 7 2 7 2 7 2 7 2 7 2 7 2 7 2 7 2 7 2 7 2 7 2 7
+        2 7 2 7 2 7 2 7 2 6 3 1 8 1 8 1 8 1 8 1 80 1 8 1 8 2 7 3 6 5 3 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1671" ulx="637" nrows="12" ncols="5">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.verticalepisema"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        1 3 1 39 2 3 2 3 2 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1273" ulx="744" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 4 12 1 182 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="142" ulx="141" nrows="43" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="clef.c" confidence="1.000000"/>
+      </ids>
+      <data>
+        8 3 7 9 4 11 2 12 1 13 1 13 1 13 1 13 1 13 1 13 1 13 1 13 1 13 1 13 1
+        13 1 13 1 13 1 5 5 2 2 4 9 4 10 4 10 4 10 4 10 4 10 4 10 4 10 4 10 5
+        6 1 2 13 1 84 1 13 1 13 1 13 1 13 1 13 2 12 4 9 7 6 2 0 
+      </data>
+    </glyph>
+    <glyph uly="770" ulx="184" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 5 7 9 3 11 2 155 1 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="180" ulx="375" nrows="18" ncols="15">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 6 6 11 3 13 2 13 2 104 1 14 1 14 1 14 1 14 1 13 2 4 5 4 12 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="690" ulx="619" nrows="25" ncols="4">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 1 2 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 56 1 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1773" ulx="950" nrows="39" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="neume.cephalicus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 6 6 10 3 12 2 13 1 13 1 143 5 6 8 6 6 8 5 9 5 9 5 9 5 9 5 9 5 9 5 9
+        5 9 5 9 6 8 6 8 7 7 9 4 16 2 12 2 12 2 12 2 12 2 12 2 13 1 11 0 
+      </data>
+    </glyph>
+    <glyph uly="1787" ulx="256" nrows="32" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 3 11 1 12 1 12 2 11 2 11 2 11 2 11 2 11 2 11 2 11 2 11 2 11 2 11
+        2 3 3 5 2 3 3 5 2 11 1 169 1 12 2 10 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1081" ulx="969" nrows="28" ncols="3">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        0 2 1 2 1 2 1 2 1 2 1 1 2 1 2 2 1 59 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1641" ulx="521" nrows="8" ncols="8">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        3 3 4 5 2 23 1 7 2 6 3 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="390" ulx="566" nrows="11" ncols="3">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.clivis.2" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 11 
+      </data>
+    </glyph>
+    <glyph uly="1637" ulx="266" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 4 11 3 12 1 168 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1650" ulx="159" nrows="15" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 11 2 13 1 13 1 140 1 13 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1767" ulx="1041" nrows="9" ncols="9">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.podatus.2.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 4 4 6 2 8 1 35 2 6 4 2 5 0 
+      </data>
+    </glyph>
+    <glyph uly="181" ulx="426" nrows="17" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 4 7 10 3 12 2 13 1 13 1 139 2 4 4 4 3 1 11 0 
+      </data>
+    </glyph>
+    <glyph uly="1648" ulx="759" nrows="35" ncols="15">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.verticalepisema" confidence="1.000000"/>
+      </ids>
+      <data>
+        7 2 7 10 4 13 2 14 1 14 1 14 1 119 1 14 1 14 2 3 7 3 67 2 12 4 11 4
+        11 4 11 4 11 4 11 4 11 4 11 4 11 4 11 3 12 3 12 3 12 3 7 0 
+      </data>
+    </glyph>
+    <glyph uly="181" ulx="742" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 7 5 10 3 13 1 168 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1414" ulx="549" nrows="23" ncols="4">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="1.000000"/>
+      </ids>
+      <data>
+        0 2 2 2 2 2 2 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1
+        20 1 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="329" ulx="527" nrows="24" ncols="4">
+      <ids state="AUTOMATIC">
+        <id name="division.small" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 1 2 3 1 3 1 3 1 3 1 3 2 2 2 2 2 2 1 31 1 3 1 3 1 3 1 3 1 3 1 3 2 1
+        2 0 
+      </data>
+    </glyph>
+    <glyph uly="1442" ulx="493" nrows="16" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 10 2 168 1 12 10 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="720" ulx="747" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 2 181 1 3 2 6 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1099" ulx="524" nrows="9" ncols="9">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 4 4 6 2 8 1 27 1 7 2 6 4 4 3 0 
+      </data>
+    </glyph>
+    <glyph uly="340" ulx="932" nrows="80" ncols="5">
+      <ids state="AUTOMATIC">
+        <id name="division.major" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 8 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1
+        4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4
+        1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 64 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4
+        1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1071" ulx="313" nrows="15" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 3 11 2 129 1 12 1 12 2 2 7 1 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1222" ulx="150" nrows="39" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="clef.c" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 7 5 10 3 11 2 13 1 26 1 13 1 14 1 13 1 13 1 13 1 13 1 13 1 13 1 5 3
+        4 2 4 10 3 11 3 11 3 11 3 11 3 11 3 11 3 11 3 11 4 10 5 3 3 3 12 1 13
+        1 13 1 13 1 13 1 13 1 13 1 13 1 13 2 12 2 12 3 11 5 8 2 0 
+      </data>
+    </glyph>
+    <glyph uly="719" ulx="525" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        7 2 7 11 2 13 1 124 1 13 1 13 1 13 2 11 2 0 
+      </data>
+    </glyph>
+    <glyph uly="900" ulx="881" nrows="16" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 9 3 11 2 12 1 12 1 143 10 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1670" ulx="359" nrows="15" ncols="5">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.verticalepisema"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        2 2 2 19 1 4 1 14 1 3 2 3 2 3 2 3 2 3 2 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1636" ulx="670" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        5 4 7 10 3 12 1 168 1 12 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1669" ulx="764" nrows="14" ncols="4">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.verticalepisema"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        1 2 1 39 1 3 1 3 1 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="181" ulx="1001" nrows="17" ncols="14">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        5 5 7 9 3 12 1 168 1 13 1 4 5 4 
+      </data>
+    </glyph>
+    <glyph uly="1589" ulx="28" nrows="37" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="clef.c" confidence="1.000000"/>
+      </ids>
+      <data>
+        3 9 3 11 1 12 1 108 4 8 6 2 1 3 10 3 10 3 8 5 8 5 8 5 8 5 8 5 7 7 5
+        10 2 135 1 12 1 12 2 11 4 8 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1064" ulx="572" nrows="78" ncols="5">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2
+        3 2 3 2 3 2 3 2 3 2 3 2 4 1 4 1 4 1 4 1 4 1 4 1 3 2 3 2 3 2 3 2 3 2 3
+        2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 1 34 1 4 1 4
+        1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1
+        4 1 4 1 4 1 0 
+      </data>
+    </glyph>
+    <glyph uly="181" ulx="533" nrows="17" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 7 5 10 3 12 1 154 1 12 3 6 9 3 8 0 
+      </data>
+    </glyph>
+    <glyph uly="892" ulx="896" nrows="8" ncols="8">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 5 2 7 1 39 2 4 3 0 
+      </data>
+    </glyph>
+    <glyph uly="1124" ulx="923" nrows="8" ncols="9">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 2 6 6 2 8 1 8 1 18 1 7 3 4 3 0 
+      </data>
+    </glyph>
+    <glyph uly="891" ulx="477" nrows="25" ncols="22">
+      <ids state="HEURISTIC">
+        <id name="neume.punctum.dot" confidence="1.000000"/>
+      </ids>
+      <data>
+        16 5 16 7 14 8 14 8 14 8 14 8 15 7 16 5 5 3 16 10 11 12 10 13 9 13 9
+        13 9 13 9 13 9 13 9 13 9 13 9 13 9 13 9 13 9 13 10 12 19 2 10 0 
+      </data>
+    </glyph>
+    <glyph uly="523" ulx="556" nrows="25" ncols="3">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        0 50 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1442" ulx="412" nrows="15" ncols="12">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 9 2 11 1 144 1 10 1 0 
+      </data>
+    </glyph>
+    <glyph uly="183" ulx="179" nrows="28" ncols="26">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.clivis.2" confidence="0.500000"/>
+      </ids>
+      <data>
+        2 9 16 12 14 13 12 14 12 14 12 14 12 14 12 14 12 14 12 14 12 14 12 14
+        12 14 12 15 3 5 3 25 2 3 6 16 1 2 9 14 13 13 14 12 14 12 14 12 14 12
+        14 12 14 12 14 12 13 13 13 13 14 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1266" ulx="188" nrows="38" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.podatus.2" confidence="1.000000"/>
+      </ids>
+      <data>
+        7 2 12 2 12 2 12 2 12 2 8 7 6 9 4 11 3 12 2 13 1 13 1 12 2 12 2 12 2
+        12 2 12 2 12 2 12 3 11 9 5 9 5 4 10 2 12 1 13 1 13 1 13 1 13 1 13 1
+        13 1 13 1 13 1 13 1 13 1 13 1 13 1 13 2 5 3 3 12 1 3 0 
+      </data>
+    </glyph>
+    <glyph uly="359" ulx="434" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        1 10 2 12 1 103 1 12 1 12 1 12 1 12 1 12 2 2 10 0 
+      </data>
+    </glyph>
+    <glyph uly="1640" ulx="895" nrows="9" ncols="8">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.torculus.2.2.dot"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        2 3 4 6 1 47 2 5 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1649" ulx="709" nrows="42" ncols="26">
+      <ids state="AUTOMATIC">
+        <id name="neume.clivis.3" confidence="1.000000"/>
+      </ids>
+      <data>
+        4 6 18 11 14 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13
+        13 13 13 13 13 13 13 13 13 3 7 3 13 2 9 2 13 2 9 2 13 2 9 2 13 2 9 2
+        13 2 9 2 13 2 9 2 13 2 9 2 13 2 9 2 13 2 9 3 12 2 10 10 4 2 10 12 1 3
+        10 15 10 16 10 16 10 16 10 16 10 16 10 16 10 16 10 14 12 13 13 13 13
+        13 14 3 5 4 24 1 2 0 
+      </data>
+    </glyph>
+    <glyph uly="544" ulx="612" nrows="16" ncols="14">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 10 3 12 1 13 1 13 1 112 1 13 1 13 1 13 2 11 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1407" ulx="26" nrows="37" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="clef.c" confidence="1.000000"/>
+      </ids>
+      <data>
+        6 3 7 8 4 10 2 11 1 12 1 12 1 12 1 12 1 12 1 12 1 38 1 5 4 2 2 4 9 3
+        10 3 10 3 10 3 10 3 10 3 10 3 10 4 6 159 1 11 3 9 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1137" ulx="826" nrows="7" ncols="2">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.clivis.2" confidence="0.500000"/>
+      </ids>
+      <data>
+        0 14 
+      </data>
+    </glyph>
+    <glyph uly="1628" ulx="569" nrows="55" ncols="5">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 2 3 2 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2
+        3 2 3 2 3 2 3 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2
+        3 2 3 2 2 3 2 3 3 2 3 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 4 1 4 1 3 2 3 2
+        3 2 3 2 3 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1122" ulx="968" nrows="20" ncols="4">
+      <ids state="HEURISTIC">
+        <id name="_group._part.division.final" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 1 2 3 1 3 1 12 1 2 2 2 2 2 1 8 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 3 1 
+      </data>
+    </glyph>
+    <glyph uly="1260" ulx="656" nrows="16" ncols="13">
+      <ids state="AUTOMATIC">
+        <id name="neume.punctum" confidence="1.000000"/>
+      </ids>
+      <data>
+        2 9 3 11 1 169 1 5 4 2 1 0 
+      </data>
+    </glyph>
+    <glyph uly="1649" ulx="632" nrows="17" ncols="15">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.verticalepisema"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        2 8 6 11 4 12 3 13 1 105 1 14 1 13 2 14 1 14 2 12 12 2 2 0 
+      </data>
+    </glyph>
+    <glyph uly="1623" ulx="854" nrows="30" ncols="39">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.torculus.2.2.dot"
+        confidence="0.500000"/>
+      </ids>
+      <data>
+        15 10 28 12 26 13 26 13 26 13 26 13 25 14 25 14 25 14 25 14 25 14 25
+        14 25 14 18 4 2 15 14 26 2 6 4 16 4 17 2 14 10 14 1 13 12 27 12 27 12
+        27 12 27 12 27 12 27 12 27 12 27 12 27 12 27 12 27 13 13 1 11 15 11 1
+        0 
+      </data>
+    </glyph>
+    <glyph uly="1260" ulx="581" nrows="16" ncols="13">
+      <ids state="HEURISTIC">
+        <id name="_group._part.neume.punctum.dot" confidence="0.500000"/>
+      </ids>
+      <data>
+        1 10 2 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 26
+        1 2 5 4 1 0 
+      </data>
+    </glyph>
+  </glyphs>
+</gamera-database>

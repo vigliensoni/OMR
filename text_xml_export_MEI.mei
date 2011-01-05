@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xml:id="a92cba66-0970-458e-973e-7e30e360fe74" xmlns="http://www.music-encoding.org/ns/mei">
+  <staff xml:id="70b0c690-382e-41df-a2e9-5f22171a79e3" n="1">
+    <note name="epiphonus" size_x="15" size_y="39" position_x="55" position_y="156" xml:id="b2a5c102-9992-4e9b-9d40-b1f8f78583b1" pname="A" id="0078ded8-756b-47d2-b567-342d902a1999"/>
+    <note name="punctum" size_x="13" size_y="16" position_x="145" position_y="154" xml:id="7a32c82e-b370-4ad7-968e-b11aa5f39cc7" pname="C" id="56ff032d-03b6-4c14-a238-6b25ec7aa408"/>
+    <note name="clivis" size_x="27" size_y="39" position_x="162" position_y="154" xml:id="d1e19edb-f1dc-4bbc-999f-93a91cf45e71" pname="C" id="45e9aabd-8cc0-4ab9-b4c4-542220731526"/>
+    <note name="clivis" size_x="26" size_y="35" position_x="213" position_y="179" xml:id="2f6d4e61-b091-4d93-ad95-0c1c779880db" pname="A" id="fd50b4a5-f63b-49b9-a9ea-63e8e0f7b515"/>
+    <note name="punctum" size_x="14" size_y="31" position_x="264" position_y="192" xml:id="5e18152c-9568-450b-afb7-6e77a0aeb378" pname="G" id="1627f1e6-abf3-4d45-a72d-ebfc794ef4af"/>
+    <note name="punctum" size_x="14" size_y="15" position_x="333" position_y="192" xml:id="e4c395d4-92df-44a3-b112-a4db9d3149ab" pname="G" id="478ee291-9550-4618-a8be-1d4e4ed343e4"/>
+    <note name="punctum" size_x="13" size_y="15" position_x="372" position_y="179" xml:id="8ac7e1fd-503a-4d9d-9349-9270a5003400" pname="A" id="c8945fe4-6c94-430f-af80-a837be8f2772"/>
+    <note name="scandicus.2.2" size_x="25" size_y="45" position_x="435" position_y="186" xml:id="3375ef10-3318-455b-a6b1-3d88db01c558" pname="E" id="c8873986-e6ce-4fdd-9552-c03c83669a74"/>
+    <note name="punctum" size_x="24" size_y="16" position_x="485" position_y="192" xml:id="311739d5-6a3c-4bf4-b28e-1d5d4724fe78" pname="G" id="cac4336a-28ee-40fc-a705-29d2f1d1138a"/>
+    <note name="clivis" size_x="26" size_y="39" position_x="580" position_y="192" xml:id="30e371ee-2fec-47a2-92a3-1d292c3c94b4" pname="G" id="618594d4-2cab-440e-a985-89a3054105a3"/>
+    <note name="virga" size_x="13" size_y="44" position_x="612" position_y="203" xml:id="ae3f426c-b661-4f59-ae80-dcca6a5f5988" pname="F" id="627038d4-ad38-40d2-856b-9cdcb9930a67"/>
+    <note name="punctum" size_x="11" size_y="22" position_x="631" position_y="209" xml:id="cf7071cf-b5d6-4788-a866-2c87d4c61ae8" pname="F" id="37d6c0a5-f6e8-491c-8c12-ef769f98cc9d"/>
+    <note name="punctum.inclinatum.dot" size_x="23" size_y="26" position_x="644" position_y="226" xml:id="6dc47b9d-ac14-454e-9ecf-c4bb92cb0eed" pname="D" id="12579a3b-0091-4eaa-863e-794bbf5e98da"/>
+    <note name="punctum" size_x="14" size_y="14" position_x="668" position_y="192" xml:id="7eaec00a-dee5-4df2-bfe9-1699ad84a842" pname="G" id="5d3ce2f9-9e41-4838-9a9c-187b446d0e80"/>
+    <note name="torculus.2.2" size_x="37" size_y="27" position_x="688" position_y="168" xml:id="39dbd0d0-79df-4923-8e58-39a61490a1e4" pname="A" id="662d535c-53e3-4cc8-8eb4-1660a8ee9382"/>
+    <note name="punctum" size_x="12" size_y="15" position_x="732" position_y="180" xml:id="8944f1ab-782b-4e8b-a7fa-0c253f81df26" pname="A" id="145f03c5-94e1-41dd-a605-b4a3c4c1ab4e"/>
+    <note name="clivis" size_x="25" size_y="40" position_x="769" position_y="180" xml:id="afdd751e-0cd2-4223-b1c2-0e18bcb9acb1" pname="A" id="05295418-aa8e-4dc8-9b7e-f54e46e6cbfe"/>
+  </staff>
+  <staff xml:id="e369425a-d61a-4d29-a0d3-eb1b54ef8ef2" n="2">
+    <note name="punctum" size_x="12" size_y="16" position_x="185" position_y="408" xml:id="409ea1aa-7080-464f-b9e1-0de3bb392ab9" pname="E" id="ff7126e5-c7db-47d2-a8c7-195d282a7b33"/>
+    <note name="podatus" size_x="13" size_y="41" position_x="203" position_y="382" xml:id="52448b10-341d-4303-8d3c-afbea0de7bcb" pname="E" id="8f721b3a-929a-4794-8d21-002a3e79c35a"/>
+    <note name="punctum" size_x="23" size_y="16" position_x="267" position_y="408" xml:id="28bda03b-0fec-4880-94e1-2c8dd5a00174" pname="E" id="1c3b2027-053b-4f52-8c3a-df9f299cd286"/>
+    <note name="punctum" size_x="14" size_y="15" position_x="386" position_y="396" xml:id="de3738f6-68cf-4ab9-a817-c13f3780bb4a" pname="F" id="ea55b242-3ab8-48cd-b974-665922dd56a8"/>
+    <note name="punctum" size_x="13" size_y="16" position_x="405" position_y="395" xml:id="88db0ce2-6261-4114-9141-2075b6a61afe" pname="F" id="33167881-0b3e-4b76-ae62-19295f895d22"/>
+    <note name="punctum" size_x="14" size_y="16" position_x="424" position_y="395" xml:id="5d826978-ba01-4af2-b6bf-73e194a0fdf4" pname="F" id="c35b6118-fca6-41cf-a1c7-3a4a2cfc7101"/>
+    <note name="clivis" size_x="26" size_y="30" position_x="462" position_y="419" xml:id="29e64041-0594-40c1-8571-1f00039c9233" pname="D" id="46226c94-240f-44b3-8792-4f49385430f3"/>
+    <note name="torculus.3.3" size_x="39" size_y="41" position_x="551" position_y="396" xml:id="622af06a-0bd7-40d3-a516-41c9bcca1df2" pname="D" id="89f05a33-e05f-4f8c-bf0e-d5e902e64324"/>
+    <note name="punctum" size_x="24" size_y="16" position_x="626" position_y="408" xml:id="6e00deee-2708-44a4-87a1-bb7dd6a79466" pname="E" id="2e0d485f-c122-4a8d-af66-aefcc52526e3"/>
+    <note name="punctum" size_x="13" size_y="34" position_x="734" position_y="383" xml:id="ac2dd47d-6661-4254-a403-447f9da70f57" pname="G" id="63d04a10-0046-4158-a65d-fffc7daf597f"/>
+    <note name="punctum" size_x="14" size_y="16" position_x="784" position_y="395" xml:id="a4517aba-d749-4e80-95d1-3ec0d3b1cf5f" pname="F" id="fd841173-dd9a-42ae-81a2-01dd6b55d465"/>
+    <note name="punctum" size_x="14" size_y="34" position_x="822" position_y="383" xml:id="21d00b48-b454-4a6a-91bf-49772890ae99" pname="G" id="b3b5b615-8a05-4465-9712-a2efc918328e"/>
+    <note name="punctum" size_x="13" size_y="16" position_x="917" position_y="383" xml:id="6bee2567-ce99-4d53-9f22-770f381e0531" pname="G" id="7f575d00-933f-4061-8176-b0c07ef56f30"/>
+    <note name="clivis" size_x="27" size_y="30" position_x="954" position_y="382" xml:id="029ed62a-cd2f-487d-b030-de1ba06214d7" pname="G" id="93ef75a2-f572-49c2-bf1c-3cd058cd3368"/>
+    <note name="punctum" size_x="14" size_y="17" position_x="1043" position_y="382" xml:id="e115b560-9237-499b-94da-b962a7779512" pname="G" id="8551d585-00f2-4bbb-9ce0-e08f2d872def"/>
+  </staff>
+  <staff xml:id="10bbc6e3-e8f1-4a9a-b6c1-e4e24292766e" n="3">
+    <note name="clivis" size_x="27" size_y="44" position_x="54" position_y="586" xml:id="46d666a1-d0b0-4387-8f09-cb2cd7c2d22c" pname="F" id="9bc54130-f4a2-4dc5-886e-7d9044cf0d52"/>
+    <note name="punctum" size_x="24" size_y="16" position_x="104" position_y="599" xml:id="1f138ec2-734d-4789-a063-87366fd8e124" pname="E" id="a873854c-71b4-4b85-adeb-bde33192ecf4"/>
+    <note name="punctum" size_x="13" size_y="34" position_x="225" position_y="574" xml:id="baae69d7-3df7-4510-a748-d3e26fa2ea89" pname="G" id="7540bc33-fb7d-4b50-b141-67148c14823f"/>
+    <note name="punctum" size_x="15" size_y="16" position_x="262" position_y="586" xml:id="c34c803d-9165-4eb4-9852-56856bbf1d3e" pname="F" id="7beebfab-5eb0-4ee2-b2ca-29ef0e736058"/>
+    <note name="clivis" size_x="27" size_y="29" position_x="313" position_y="611" xml:id="516364da-1844-493a-bf82-e1097efbf5c7" pname="D" id="c79363c4-dd2a-4ad2-afc8-7e7f69359aaf"/>
+    <note name="punctum" size_x="14" size_y="16" position_x="414" position_y="611" xml:id="2080a648-e217-4dd4-9649-b002f58e3da4" pname="D" id="f7061c5d-569e-426e-a8c4-b193b224bcf1"/>
+    <note name="punctum" size_x="14" size_y="37" position_x="453" position_y="585" xml:id="29722861-ff6c-468e-b898-07431044fcd3" pname="F" id="49169b2e-f133-4bb7-a13e-70504f370885"/>
+    <note name="punctum" size_x="13" size_y="16" position_x="504" position_y="611" xml:id="e12ef86c-2c23-4876-a16d-edeea1382d1e" pname="D" id="6d568b58-6993-469e-b042-a567cea6692d"/>
+    <note name="podatus" size_x="15" size_y="31" position_x="566" position_y="597" xml:id="dc087978-56ad-4c22-8613-c4c94000c2ce" pname="D" id="4a46bcc0-6a3c-430d-9b94-a1757fde3878"/>
+    <note name="punctum" size_x="23" size_y="17" position_x="617" position_y="598" xml:id="628c0bd6-c087-4e62-9ab7-fcc4cd2b9e5a" pname="E" id="fba48157-958e-415c-8ee3-0dfb7a2ab332"/>
+    <note name="punctum" size_x="13" size_y="35" position_x="686" position_y="573" xml:id="39360dae-1b5f-4c77-b37a-62c45f1da0d2" pname="G" id="7c60fac7-82bd-4b29-b499-3ccc102822e9"/>
+    <note name="punctum" size_x="14" size_y="17" position_x="730" position_y="585" xml:id="c4546dd5-78b3-40f2-8a91-a79aa7f01c64" pname="F" id="c385d7e8-cd02-4dd9-8625-a3128f35666a"/>
+    <note name="punctum" size_x="13" size_y="15" position_x="768" position_y="575" xml:id="ed179b61-0798-45d7-b25b-2ce156cf044d" pname="G" id="8cbb57af-7048-41b3-92d5-920ef2a232f0"/>
+    <note name="clivis" size_x="26" size_y="45" position_x="819" position_y="586" xml:id="0a54e1f2-c3a4-4262-aaf9-24ac942b0c0d" pname="F" id="dd57e54f-96d8-4cde-86dc-9c1ec20cd4e4"/>
+    <note name="punctum" size_x="24" size_y="16" position_x="869" position_y="599" xml:id="5a3bac1a-db3c-4170-b60e-f7ef69ccfdc7" pname="E" id="48f00e08-dfd1-4ca4-8c53-1179f21f95b9"/>
+    <note name="punctum" size_x="14" size_y="14" position_x="951" position_y="574" xml:id="1b06ef90-09c1-46fa-84b7-17c06641e0bb" pname="G" id="abbae26e-ea5e-4e24-afa0-67522cdf69ba"/>
+    <note name="epiphonus" size_x="13" size_y="35" position_x="990" position_y="561" xml:id="7a67a7c6-77f5-4042-afff-6115d61879dd" pname="F" id="0a72b1a2-9f6e-4140-954c-eca7efee230a"/>
+    <note name="punctum" size_x="15" size_y="35" position_x="1053" position_y="561" xml:id="9bce7686-04a9-4eae-9226-50c18b06da2b" pname="A" id="afa84045-f603-4d16-b7d9-9b88959d40bc"/>
+  </staff>
+  <staff xml:id="7c578a23-11a8-4614-9aa1-7c612e7afcd5" n="4">
+    <note name="punctum" size_x="13" size_y="15" position_x="62" position_y="771" xml:id="f0134a6a-89db-4d00-8549-9dee26e1b169" pname="G" id="c7476243-4e36-4714-bde8-b53fee7518f2"/>
+    <note name="punctum" size_x="13" size_y="17" position_x="113" position_y="782" xml:id="71729cb0-2152-4e09-b5b9-29b7eab401dd" pname="F" id="e012f165-7b62-4034-a4a6-869fcc9ec062"/>
+    <note name="punctum" size_x="13" size_y="15" position_x="176" position_y="771" xml:id="a87c0140-e11a-42f6-9dec-75d87357573f" pname="G" id="5ddbb675-47d7-4772-bb44-5ea538138793"/>
+    <note name="punctum" size_x="13" size_y="15" position_x="195" position_y="771" xml:id="e443c04a-c24d-479d-8336-bc0780957caa" pname="G" id="62c00415-3c73-4254-a89c-c7b811064dcd"/>
+    <note name="punctum" size_x="24" size_y="16" position_x="233" position_y="795" xml:id="77951d38-61c5-4f11-9050-7a51a0ac2d50" pname="E" id="76b01be8-1b39-40f2-b468-dd1d6cbd6282"/>
+    <note name="punctum" size_x="13" size_y="15" position_x="340" position_y="771" xml:id="e48645dc-4274-47af-8393-2df4df2197f6" pname="G" id="4a98e58b-713d-44a3-9925-9d7413800449"/>
+    <note name="punctum" size_x="14" size_y="34" position_x="378" position_y="796" xml:id="fb29e920-d7be-4208-98e6-c4bf8d6faf09" pname="E" id="ad10ff60-7267-4362-8bba-64c038ac695e"/>
+    <note name="punctum" size_x="14" size_y="17" position_x="416" position_y="782" xml:id="7585a7c9-541e-4f27-a596-e275be3a6b0a" pname="F" id="b07a7854-acaa-4229-87fe-883bb3570884"/>
+    <note name="clivis" size_x="26" size_y="32" position_x="460" position_y="806" xml:id="db635394-ddb6-4a98-9059-87d111983e42" pname="D" id="5a3a7c73-17d5-480c-af15-368136050dda"/>
+    <note name="punctum" size_x="15" size_y="16" position_x="561" position_y="807" xml:id="12b4e360-f44d-4a73-95d8-e7ca72696ee5" pname="D" id="101b1347-7459-4b9b-a015-6d828e7dab0b"/>
+    <note name="punctum" size_x="15" size_y="17" position_x="611" position_y="807" xml:id="03d08612-c1f7-4ae0-875f-05539529880f" pname="D" id="44128ee9-0b4c-4486-8ab0-9fdcd04baff4"/>
+    <note name="punctum" size_x="14" size_y="16" position_x="624" position_y="783" xml:id="d814922a-e481-422b-aed1-661ff9208a96" pname="F" id="512e5918-ae87-4b28-8a15-60859ce071a8"/>
+    <note name="punctum" size_x="15" size_y="17" position_x="636" position_y="807" xml:id="bd26fefc-a43e-449a-b8ea-d04623c03f69" pname="D" id="7dc0b2a1-d7e5-4b40-9fb7-2e6c6a16cbdc"/>
+    <note name="punctum" size_x="23" size_y="15" position_x="675" position_y="796" xml:id="7b9692ee-1bc1-4c92-bb8b-16f25d037610" pname="E" id="2c222104-e43d-46f7-a567-86ffaa0520da"/>
+    <note name="punctum" size_x="15" size_y="16" position_x="750" position_y="771" xml:id="a1705857-6aca-4668-a1c8-696c2284cadb" pname="G" id="1a191fb9-2993-4358-93e7-d1e0f7f3f711"/>
+    <note name="punctum" size_x="13" size_y="33" position_x="827" position_y="771" xml:id="6dcd905a-2060-4f45-9d3c-d5d727c7d0c0" pname="G" id="ee878d2b-09ff-4960-8413-74d3925393a4"/>
+    <note name="punctum" size_x="14" size_y="16" position_x="877" position_y="770" xml:id="44c55411-9c71-4cfc-996d-1cbb2e213d66" pname="G" id="05c6ac5f-4aca-4dc8-856e-f766979bd606"/>
+    <note name="punctum" size_x="13" size_y="34" position_x="916" position_y="783" xml:id="cb86776e-dbe8-4dcc-a9c0-dd9a32943991" pname="F" id="1f2b4439-3a3c-42da-8004-99f9a09ce4f7"/>
+    <note name="punctum" size_x="13" size_y="16" position_x="984" position_y="770" xml:id="0f810fb5-6622-45b8-aada-81205a2b6d0c" pname="G" id="bab042e1-d475-4679-9d31-7901a833b712"/>
+    <note name="clivis" size_x="26" size_y="43" position_x="1035" position_y="784" xml:id="27e51c73-1231-4e21-8bed-2cdf5f249e7c" pname="F" id="70708dd2-72e0-4726-aa61-f7a4028ef5d8"/>
+  </staff>
+  <staff xml:id="581a6afe-2631-4d93-b578-47988cb9fd6b" n="5">
+    <note name="punctum" size_x="24" size_y="16" position_x="63" position_y="991" xml:id="be97147a-8f16-45fa-8da7-26331169c0a8" pname="E" id="c2fec3ca-e6b6-4726-8a10-f57e994060e5"/>
+    <note name="punctum" size_x="13" size_y="16" position_x="152" position_y="966" xml:id="cce2cb8b-e747-40b5-aa4e-ffb50db326d8" pname="G" id="5db23bc4-876f-425b-b69f-acd95e47711c"/>
+    <note name="epiphonus" size_x="14" size_y="35" position_x="189" position_y="953" xml:id="4fc0e2bd-b87a-43ed-9040-adcaf41ae70f" pname="F" id="e0ce1bfa-f648-4264-8ca9-02f92a0012b1"/>
+    <note name="punctum" size_x="14" size_y="36" position_x="252" position_y="952" xml:id="d8d25ec6-e65a-439b-9462-ace404643636" pname="A" id="8fd8f5ae-c53d-46ba-b6a4-a66fd3408227"/>
+    <note name="punctum" size_x="13" size_y="16" position_x="303" position_y="966" xml:id="80b47f11-f5fe-4e43-80b8-b2ac397c461d" pname="G" id="6836d579-84d2-4945-8264-68c8634564ee"/>
+    <note name="punctum" size_x="14" size_y="17" position_x="353" position_y="978" xml:id="b25f8ab6-d9b8-47f8-847d-62ce93af3f23" pname="F" id="4d7a6889-0dbe-4e8c-b9a7-55810f500b58"/>
+    <note name="punctum" size_x="12" size_y="16" position_x="417" position_y="966" xml:id="83191a0f-72f0-494e-9edd-211e31961cf6" pname="G" id="7657e156-ef11-4094-89e7-db49bc4ce77a"/>
+    <note name="punctum" size_x="13" size_y="15" position_x="436" position_y="967" xml:id="08bd4e8c-96bc-4abf-b7df-8e99373acfd2" pname="G" id="8439c9f8-1538-4753-9975-35e4ddf8e563"/>
+    <note name="punctum" size_x="23" size_y="17" position_x="473" position_y="990" xml:id="5b5307e6-c640-4b46-9fcd-08aa0e68cea2" pname="E" id="5a4c2ce2-152b-40fe-b8de-2d295268ea33"/>
+  </staff>
+  <staff xml:id="72728640-e845-4381-9809-4c4822a7a596" n="6">
+    <note name="punctum" size_x="14" size_y="17" position_x="201" position_y="1162" xml:id="2ca1332f-5189-443c-ad44-6bb6ec842eb3" pname="E" id="158f23a3-d317-40e7-b5ca-2f1ab7f1f135"/>
+    <note name="clivis" size_x="27" size_y="35" position_x="263" position_y="1176" xml:id="5ad5eeb8-5950-4c99-9088-ff8630867cd7" pname="D" id="8003f91c-aabb-48d6-84ca-10f674983830"/>
+    <note name="podatus" size_x="13" size_y="30" position_x="353" position_y="1162" xml:id="4538caec-7be2-4c77-aacf-59c48ce5bb0c" pname="D" id="d79c8fe4-37d4-48c6-ad99-2a8ad753f03c"/>
+    <note name="punctum" size_x="22" size_y="16" position_x="391" position_y="1163" xml:id="f239610a-59c4-4e1c-9c0d-2f575fef7f48" pname="E" id="80d60b8d-e853-410e-a2ae-6c8766a76228"/>
+    <note name="punctum" size_x="13" size_y="16" position_x="498" position_y="1163" xml:id="5a7c9106-5db4-4035-8ea6-a9abe74928a5" pname="E" id="9f44ad4f-c47a-4796-9469-277dac70f882"/>
+    <note name="punctum" size_x="14" size_y="33" position_x="548" position_y="1138" xml:id="44c5ac0d-d1b0-47aa-9715-d8acf69511bd" pname="G" id="f4a29068-f8a8-4fa9-814d-cbc3e8f5103a"/>
+    <note name="punctum" size_x="14" size_y="15" position_x="587" position_y="1127" xml:id="a21a6eef-e00e-42e2-81a6-b04a1550829f" pname="A" id="69d621ed-cd7f-4f28-97d2-fe27ac362bbe"/>
+    <note name="clivis" size_x="27" size_y="28" position_x="655" position_y="1138" xml:id="988a9365-4a1d-4f7b-b477-77d052e1e419" pname="G" id="1896552a-7fea-45b1-acb6-a12dee40bd0c"/>
+    <note name="punctum" size_x="14" size_y="16" position_x="712" position_y="1138" xml:id="9442cc5f-bd67-41ef-935d-25cbd0fa30f0" pname="G" id="5b1781ce-ec82-4299-bb03-fa7deb2e435c"/>
+    <note name="clivis" size_x="27" size_y="31" position_x="750" position_y="1139" xml:id="84a9d0e0-d681-4838-a2c2-8e50ff7e5329" pname="G" id="cbba131d-9ef3-4596-a3e5-2aa59ec82a18"/>
+    <note name="punctum" size_x="24" size_y="15" position_x="820" position_y="1164" xml:id="8fca175e-981f-4623-8561-f301e5804cf6" pname="E" id="d5d6a2c2-cde9-4736-853a-3bbbcf487266"/>
+    <note name="punctum" size_x="24" size_y="15" position_x="877" position_y="1164" xml:id="00f23e0f-7490-4191-a9d1-2fcda6af2e5e" pname="E" id="5b1bc4bc-a078-43ab-a50c-0352f1d36704"/>
+    <note name="punctum" size_x="12" size_y="16" position_x="960" position_y="1164" xml:id="9ef9ba0c-3eac-4cc4-b4b1-2a4ba660a012" pname="E" id="c1491002-2fba-4eac-bc30-1b93a41b1483"/>
+    <note name="punctum" size_x="16" size_y="16" position_x="991" position_y="1100" xml:id="22e26da8-6769-4c54-ac60-a444e4338b76" pname="C" id="2996d7ff-2f6b-4e03-b982-b5c5564b89be"/>
+    <note name="clivis" size_x="26" size_y="33" position_x="997" position_y="1163" xml:id="4173eb95-902b-42d2-99cc-ca0631b71057" pname="E" id="8cd44ead-d110-42e1-a791-afaeacd0ea35"/>
+    <note name="punctum" size_x="14" size_y="16" position_x="1047" position_y="1151" xml:id="e12a32b7-0b70-41a8-addc-42a53490958d" pname="F" id="620d6a17-2c73-4fe3-8250-8af0365c04fb"/>
+    <note name="punctum" size_x="13" size_y="14" position_x="1048" position_y="1102" xml:id="6bb08c1e-df0f-4ba7-8add-b2cfa2839971" pname="C" id="e173429d-874d-404a-be76-993c2052fabe"/>
+  </staff>
+  <staff xml:id="9ffd01fd-85b5-4068-9f8f-58c357b3d318" n="7">
+    <note name="podatus" size_x="14" size_y="37" position_x="75" position_y="1344" xml:id="e9d94cff-434c-4013-9f77-a4ddb8974ee5" pname="D" id="7f04562a-66eb-4054-a67d-441e4f46ffc8"/>
+    <note name="punctum" size_x="24" size_y="16" position_x="131" position_y="1351" xml:id="7ce4551d-f5b2-44de-963b-cb761e7dae32" pname="E" id="b7967284-cc53-47de-9d39-7602dcafff5b"/>
+    <note name="punctum" size_x="23" size_y="17" position_x="181" position_y="1351" xml:id="10cff9fc-44ad-4306-b22b-69e136070d46" pname="E" id="bd1dbaf1-4143-4670-b320-a16972a7d6ce"/>
+    <note name="punctum" size_x="14" size_y="16" position_x="257" position_y="1326" xml:id="acce19a0-3b29-4efb-a1e4-2ea7095947da" pname="G" id="5b60c704-ea06-4c8f-abff-e5eaf4311ed9"/>
+    <note name="punctum" size_x="13" size_y="32" position_x="334" position_y="1327" xml:id="dc69b920-c4a0-4879-9d3d-a28746a4e8c4" pname="G" id="d65717df-2eaa-4cb6-b30d-0baa39be7f82"/>
+    <note name="punctum" size_x="14" size_y="17" position_x="422" position_y="1313" xml:id="88d6c1d5-cc3c-43c0-aa13-432828b751be" pname="A" id="a7000484-1a86-4299-886f-29550922cb16"/>
+    <note name="punctum" size_x="23" size_y="15" position_x="460" position_y="1326" xml:id="91165ddb-515d-43aa-bbbd-4820170bf003" pname="G" id="5cbc20d8-5be2-4225-a2ad-4bf630541ff2"/>
+    <note name="punctum" size_x="13" size_y="16" position_x="568" position_y="1338" xml:id="6c6da62a-83b3-487b-af76-35021ed0a6b6" pname="F" id="7830d598-55d7-4037-a619-cfc42602021c"/>
+    <note name="punctum" size_x="14" size_y="31" position_x="617" position_y="1327" xml:id="8b77359a-76e0-44dc-a1c8-1fc969f0088d" pname="G" id="a63bce0e-a517-49ab-99f5-f150c7192e25"/>
+    <note name="punctum" size_x="14" size_y="16" position_x="655" position_y="1314" xml:id="2971619a-6f7b-45f2-a60d-0b4bab61e0b6" pname="A" id="1fcd831a-ddff-45dd-82f9-07cd7e2e2022"/>
+    <note name="clivis" size_x="28" size_y="33" position_x="724" position_y="1326" xml:id="d59c34ff-e48d-4c5b-98d2-129db6dfb435" pname="G" id="6baf213a-d62a-4053-a51c-d179e7673749"/>
+    <note name="punctum" size_x="14" size_y="16" position_x="781" position_y="1326" xml:id="995ff8df-8b2e-40d4-92f2-7b079fe86a76" pname="G" id="56ce212b-7764-4bf1-a4a8-e6199f6cb9e6"/>
+    <note name="clivis" size_x="28" size_y="32" position_x="818" position_y="1327" xml:id="2488506e-7b42-4340-9c29-1845fa1f127d" pname="G" id="f4ce6702-9929-480f-ac6b-758d335b2f5c"/>
+    <note name="punctum" size_x="24" size_y="16" position_x="888" position_y="1350" xml:id="69ddc0f0-e304-4e71-9b6a-ebf126b17e56" pname="E" id="615e1505-b288-4017-9ba1-f815ae99180a"/>
+    <note name="punctum" size_x="23" size_y="17" position_x="951" position_y="1351" xml:id="c3d09898-4c9b-4f43-94fe-7c932c3a7b5c" pname="E" id="5ef319c7-ec65-49fd-bdb3-0afaf81fa32e"/>
+    <note name="clivis" size_x="27" size_y="44" position_x="1039" position_y="1338" xml:id="aa7378fd-b54e-4d90-8917-5354ef542f46" pname="F" id="5885a9ac-e250-4fba-bcfc-4774b8411722"/>
+  </staff>
+  <staff xml:id="e27ef84c-f942-44dd-a85c-834bd6454bb6" n="8">
+    <note name="podatus" size_x="14" size_y="33" position_x="68" position_y="1516" xml:id="b5114ddf-c6ad-4b6a-8a5e-8c024431b999" pname="F" id="c8c931a8-bf33-4889-b375-1a0c0b62b308"/>
+    <note name="punctum" size_x="14" size_y="16" position_x="107" position_y="1531" xml:id="d5776c5d-2d74-4ed0-b2d9-c702a7eeaaf1" pname="F" id="72dedbb5-6e9f-4c86-bd9d-705a5686c123"/>
+    <note name="clivis" size_x="26" size_y="36" position_x="126" position_y="1532" xml:id="9fde36fa-6ceb-4dc3-bd23-4551ddec8ea4" pname="F" id="e95ff736-b7b7-43ff-8034-ffb85f5b3ca2"/>
+    <note name="clivis" size_x="26" size_y="39" position_x="176" position_y="1557" xml:id="3d363f3c-033c-4b80-94a1-c5db311cf96a" pname="D" id="32f127b4-52a5-4c8d-a062-3d86f5efb907"/>
+    <note name="podatus" size_x="13" size_y="35" position_x="240" position_y="1538" xml:id="ccc0792b-09ce-4d96-836e-acfa2a7cb300" pname="D" id="f3eb9f31-d3f1-4501-a590-0a3341a93e78"/>
+    <note name="punctum" size_x="24" size_y="14" position_x="278" position_y="1545" xml:id="d7f8967d-7d16-44fa-9cfb-95326db1574e" pname="E" id="4ad43be9-1faa-43aa-be39-7af20f164e37"/>
+    <note name="punctum" size_x="14" size_y="15" position_x="347" position_y="1545" xml:id="9646c8ee-460f-4d29-b3b7-35afb878103d" pname="E" id="9d5b6934-b49f-4a4d-8756-0d15a8d74ebe"/>
+    <note name="clivis" size_x="25" size_y="28" position_x="417" position_y="1557" xml:id="02b8eb24-15c6-44e1-82e5-3d8e31808f72" pname="D" id="59c1a453-5c87-4e17-8e48-7d3cd50a1405"/>
+    <note name="podatus" size_x="14" size_y="30" position_x="505" position_y="1543" xml:id="b9998a47-1993-4f74-931e-cb756fa8941b" pname="D" id="bd1dc1b6-8128-49bb-8ffa-170cd0876b3c"/>
+    <note name="punctum" size_x="23" size_y="15" position_x="544" position_y="1545" xml:id="9576fa3e-591f-4f9e-a95a-8ff7918405f8" pname="E" id="0de87449-87b0-4a95-9d1a-b6ec67959b79"/>
+    <note name="punctum" size_x="13" size_y="15" position_x="651" position_y="1545" xml:id="52d35dbe-bedc-4ca3-950e-cedde3287cd0" pname="E" id="88405294-b976-47df-ac37-f047508deb7f"/>
+    <note name="punctum" size_x="15" size_y="35" position_x="700" position_y="1518" xml:id="b3282f78-e280-4821-b403-e7bf7f6814c1" pname="G" id="d1ef7a94-7da1-448b-b790-97a2d6dd710b"/>
+    <note name="punctum" size_x="15" size_y="16" position_x="737" position_y="1505" xml:id="49976ec3-5a39-4bee-8c65-9c21383cf983" pname="A" id="e4f3b1ba-6954-4bcb-925b-2fdee1a5353f"/>
+    <note name="clivis" size_x="26" size_y="31" position_x="808" position_y="1519" xml:id="a0108663-199e-4245-91ec-3eee1bd60e58" pname="G" id="33b4829a-5164-4e84-8239-82d421f036bb"/>
+    <note name="punctum" size_x="15" size_y="15" position_x="864" position_y="1519" xml:id="fed086d4-3d1f-4a72-8e88-90fc04efd71b" pname="G" id="7646d464-1624-4ac2-9625-bc5b9a71726d"/>
+    <note name="clivis" size_x="26" size_y="27" position_x="903" position_y="1519" xml:id="87ed9344-b5ce-4649-b035-776ef427df3e" pname="G" id="f8da9efc-fe29-40a9-bd7e-fd3d3b5e53d9"/>
+    <note name="punctum" size_x="23" size_y="16" position_x="968" position_y="1544" xml:id="acca45cc-c921-47de-ab23-145f0ccc3278" pname="E" id="dfcad33b-9824-46b8-bec4-ef9a722c63ec"/>
+    <note name="virga" size_x="13" size_y="22" position_x="1030" position_y="1544" xml:id="327eead7-5870-4d85-931c-e32785e7a437" pname="E" id="868e63a0-f485-4366-b5e5-fca55e715dd3"/>
+  </staff>
+  <staff xml:id="9d91711f-2f5c-4c20-9f2c-2c15a83fe8da" n="9">
+    <note name="punctum" size_x="12" size_y="15" position_x="77" position_y="1736" xml:id="ea39cffe-dd48-4a9c-9130-99319ac5d696" pname="E" id="d61c931a-7484-4642-98dc-01934e2caf3c"/>
+    <note name="clivis" size_x="27" size_y="33" position_x="114" position_y="1734" xml:id="4bddf8c6-d13d-4d40-962b-26673a6de05d" pname="E" id="1d872f31-7b1b-40d1-9760-d30bda5fdada"/>
+    <note name="punctum" size_x="14" size_y="17" position_x="177" position_y="1722" xml:id="a438e110-1fe7-48c0-aff5-d0a528a45597" pname="F" id="73357918-e2cb-474a-b65b-b236134016e2"/>
+    <note name="podatus" size_x="13" size_y="36" position_x="216" position_y="1730" xml:id="f666e171-04e7-4d8c-8b10-3dbcaaef44a1" pname="D" id="f1202cb6-d4be-44e3-9660-5b585d91d458"/>
+    <note name="punctum" size_x="23" size_y="14" position_x="291" position_y="1736" xml:id="b0ba8007-44ab-414a-9078-5dd20795d2a6" pname="E" id="385ef540-8292-4af5-afd5-86160ab8ec03"/>
+    <note name="punctum" size_x="23" size_y="14" position_x="342" position_y="1736" xml:id="43ad715e-c5a5-49c1-b96b-76398162013a" pname="E" id="2ff3b0ef-193e-47a4-b867-69c1d5fb2153"/>
+  </staff>
+</section>

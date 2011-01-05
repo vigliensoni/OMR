@@ -1,0 +1,156 @@
+<section>
+  <staff n="1">
+    <uneume ulx="55" uly="156" name="epiphonus" pname="A" lry="39" lrx="15" id="9c28873e-1329-41bb-a0b4-6fb98a46dc2f"/>
+    <uneume ulx="145" uly="154" name="punctum" pname="C" lry="16" lrx="13" id="4b2e395f-0420-454e-ba6b-9fbe06f813c7"/>
+    <uneume ulx="162" uly="154" name="clivis" pname="C" lry="39" lrx="27" id="8c780df9-2198-4021-ad53-e3121a02910d"/>
+    <uneume ulx="213" uly="179" name="clivis" pname="A" lry="35" lrx="26" id="d8720b3d-3754-4cab-bee7-fe7d76f6db20"/>
+    <uneume ulx="264" uly="192" name="punctum" pname="G" lry="31" lrx="14" id="2cd75bb2-e23a-4480-ab77-ea67b22a0d8e"/>
+    <uneume ulx="333" uly="192" name="punctum" pname="G" lry="15" lrx="14" id="b0798360-979f-4482-ba78-08c2365205cf"/>
+    <uneume ulx="372" uly="179" name="punctum" pname="A" lry="15" lrx="13" id="a4451265-0873-4c64-99bf-ea1e65600e88"/>
+    <uneume ulx="435" uly="186" name="scandicus.2.2" pname="E" lry="45" lrx="25" id="b3e4e838-85d2-43be-adc1-8c2b07333d8b"/>
+    <uneume ulx="485" uly="192" name="punctum" pname="G" lry="16" lrx="24" id="4f107a31-9529-4014-ab8c-5c3577ad84ff"/>
+    <uneume ulx="580" uly="192" name="clivis" pname="G" lry="39" lrx="26" id="872976a4-eb65-4e46-a433-7691256e0c39"/>
+    <uneume ulx="612" uly="203" name="virga" pname="F" lry="44" lrx="13" id="8b4a207f-dd40-49b7-a0b3-45bacfef4eab"/>
+    <uneume ulx="631" uly="209" name="punctum" pname="F" lry="22" lrx="11" id="8a24bb5c-a433-4089-9adc-2445ca9313a4"/>
+    <uneume ulx="644" uly="226" name="punctum.inclinatum.dot" pname="D" lry="26" lrx="23" id="174ebfd4-ba88-4cdc-ad04-8070fde90e94"/>
+    <uneume ulx="668" uly="192" name="punctum" pname="G" lry="14" lrx="14" id="1f3e46d0-05ac-4595-84de-abe8c6f8ab20"/>
+    <uneume ulx="688" uly="168" name="torculus.2.2" pname="A" lry="27" lrx="37" id="b19399e3-af5d-486a-9951-aa76b1afe586"/>
+    <uneume ulx="732" uly="180" name="punctum" pname="A" lry="15" lrx="12" id="4e40910b-99eb-480a-8964-03af33e73e4a"/>
+    <uneume ulx="769" uly="180" name="clivis" pname="A" lry="40" lrx="25" id="bcb37550-0b07-4b6b-96b3-abb5c69eec4a"/>
+  </staff>
+  <staff n="2">
+    <uneume ulx="185" uly="408" name="punctum" pname="E" lry="16" lrx="12" id="d1e1a631-50f7-40e6-9a75-fc1c281ff77f"/>
+    <uneume ulx="203" uly="382" name="podatus" pname="E" lry="41" lrx="13" id="e1e2ea5a-3507-45c3-b81b-ebc099cef051"/>
+    <uneume ulx="267" uly="408" name="punctum" pname="E" lry="16" lrx="23" id="b98cfb89-1d47-4bb9-b83b-66859c680e41"/>
+    <uneume ulx="386" uly="396" name="punctum" pname="F" lry="15" lrx="14" id="09a613d7-c13b-4d3a-a160-9dd743c95523"/>
+    <uneume ulx="405" uly="395" name="punctum" pname="F" lry="16" lrx="13" id="cd949e02-9d18-44c1-9b25-d61ccf9a6dba"/>
+    <uneume ulx="424" uly="395" name="punctum" pname="F" lry="16" lrx="14" id="bdf54722-3b06-4b70-b244-c49880992ca6"/>
+    <uneume ulx="462" uly="419" name="clivis" pname="D" lry="30" lrx="26" id="399895cd-63e6-4c6b-9981-9575496e6cc3"/>
+    <uneume ulx="551" uly="396" name="torculus.3.3" pname="D" lry="41" lrx="39" id="b2c4596a-2a8e-4e9f-9c68-95dedd7ac78c"/>
+    <uneume ulx="626" uly="408" name="punctum" pname="E" lry="16" lrx="24" id="55a786ac-54b2-4922-9dff-2277117fe4ac"/>
+    <uneume ulx="734" uly="383" name="punctum" pname="G" lry="34" lrx="13" id="b2a20928-e45c-4696-b13f-9acf944e9f0a"/>
+    <uneume ulx="784" uly="395" name="punctum" pname="F" lry="16" lrx="14" id="6a41a4d3-b43a-41ca-b2c7-fa6779c921c1"/>
+    <uneume ulx="822" uly="383" name="punctum" pname="G" lry="34" lrx="14" id="4ffd87df-8f11-4175-b8af-061a877360eb"/>
+    <uneume ulx="917" uly="383" name="punctum" pname="G" lry="16" lrx="13" id="47b0ade5-7108-4a2e-b68a-aa752caee112"/>
+    <uneume ulx="954" uly="382" name="clivis" pname="G" lry="30" lrx="27" id="853247fe-3805-4ca9-9dff-46a8626ee5eb"/>
+    <uneume ulx="1043" uly="382" name="punctum" pname="G" lry="17" lrx="14" id="98adfefe-703e-48f9-89df-27f35e12e90c"/>
+  </staff>
+  <staff n="3">
+    <uneume ulx="54" uly="586" name="clivis" pname="F" lry="44" lrx="27" id="56af9a77-2a8b-404f-8038-b77163a86bf8"/>
+    <uneume ulx="104" uly="599" name="punctum" pname="E" lry="16" lrx="24" id="b38b8c80-b172-4dd3-824f-d9caf7dd91b5"/>
+    <uneume ulx="225" uly="574" name="punctum" pname="G" lry="34" lrx="13" id="1e30fbf6-82c7-47cd-84c0-14fc60ba4fef"/>
+    <uneume ulx="262" uly="586" name="punctum" pname="F" lry="16" lrx="15" id="2a95cb61-90ab-4b45-bbcb-1ab155339e7f"/>
+    <uneume ulx="313" uly="611" name="clivis" pname="D" lry="29" lrx="27" id="b9d1b8cf-8c07-42d2-8d76-a205821fdada"/>
+    <uneume ulx="414" uly="611" name="punctum" pname="D" lry="16" lrx="14" id="12543d39-5f83-423c-840d-c99c8faf7463"/>
+    <uneume ulx="453" uly="585" name="punctum" pname="F" lry="37" lrx="14" id="bdee8a68-9710-4b4a-9b82-4b22d05ab270"/>
+    <uneume ulx="504" uly="611" name="punctum" pname="D" lry="16" lrx="13" id="53cd15a3-01f9-4213-bd62-b78872a697f6"/>
+    <uneume ulx="566" uly="597" name="podatus" pname="D" lry="31" lrx="15" id="b1860c9f-893e-4406-852e-e754e6ae25a5"/>
+    <uneume ulx="617" uly="598" name="punctum" pname="E" lry="17" lrx="23" id="586f2880-05e5-482e-9713-cc3e6c9e1664"/>
+    <uneume ulx="686" uly="573" name="punctum" pname="G" lry="35" lrx="13" id="cb71b431-3719-4cb1-b83e-0723820e8bab"/>
+    <uneume ulx="730" uly="585" name="punctum" pname="F" lry="17" lrx="14" id="f294bced-439b-4551-b409-1446a5ba5751"/>
+    <uneume ulx="768" uly="575" name="punctum" pname="G" lry="15" lrx="13" id="20671970-b553-460f-b071-5bf394ddf27f"/>
+    <uneume ulx="819" uly="586" name="clivis" pname="F" lry="45" lrx="26" id="821d75fe-db94-449d-8990-e883a4e6796a"/>
+    <uneume ulx="869" uly="599" name="punctum" pname="E" lry="16" lrx="24" id="0b954183-1954-430c-b1f6-bf1df977afbe"/>
+    <uneume ulx="951" uly="574" name="punctum" pname="G" lry="14" lrx="14" id="0425eebe-d72e-4fd3-ae6d-cece3139c94b"/>
+    <uneume ulx="990" uly="561" name="epiphonus" pname="F" lry="35" lrx="13" id="39e492d7-fb7a-4cd0-bb46-5af90d3d1400"/>
+    <uneume ulx="1053" uly="561" name="punctum" pname="A" lry="35" lrx="15" id="d9ce8b0c-e6fd-4fd9-a27d-2ad8d48cd8d7"/>
+  </staff>
+  <staff n="4">
+    <uneume ulx="62" uly="771" name="punctum" pname="G" lry="15" lrx="13" id="d7218104-6036-497d-958d-8b2fcccfea4a"/>
+    <uneume ulx="113" uly="782" name="punctum" pname="F" lry="17" lrx="13" id="640d5c8a-cd71-4665-a4a6-d4ad6b91c71c"/>
+    <uneume ulx="176" uly="771" name="punctum" pname="G" lry="15" lrx="13" id="c0e346b9-56e2-4114-90fe-9514077b92b9"/>
+    <uneume ulx="195" uly="771" name="punctum" pname="G" lry="15" lrx="13" id="fb98dd0d-8987-44a3-be95-8e625bf00ac9"/>
+    <uneume ulx="233" uly="795" name="punctum" pname="E" lry="16" lrx="24" id="17494d4f-78fe-4753-b52d-e7d01d6781cb"/>
+    <uneume ulx="340" uly="771" name="punctum" pname="G" lry="15" lrx="13" id="c796ae63-0c57-4755-82a0-723fed1ac50d"/>
+    <uneume ulx="378" uly="796" name="punctum" pname="E" lry="34" lrx="14" id="1f8e0326-fef5-48bd-82df-09af10d93301"/>
+    <uneume ulx="416" uly="782" name="punctum" pname="F" lry="17" lrx="14" id="675b8128-8f47-4d7d-8886-bbb70991fe40"/>
+    <uneume ulx="460" uly="806" name="clivis" pname="D" lry="32" lrx="26" id="bfe4c4e8-bea9-422e-ac7c-ff8213f68cc2"/>
+    <uneume ulx="561" uly="807" name="punctum" pname="D" lry="16" lrx="15" id="7d5c1b33-df14-4b77-b879-b5b5ff919c99"/>
+    <uneume ulx="611" uly="807" name="punctum" pname="D" lry="17" lrx="15" id="9bbcacff-d028-4957-93a8-09027749097b"/>
+    <uneume ulx="624" uly="783" name="punctum" pname="F" lry="16" lrx="14" id="b7ba3b33-bd9f-4f76-9ab6-f105508bd3ba"/>
+    <uneume ulx="636" uly="807" name="punctum" pname="D" lry="17" lrx="15" id="3cad59a9-0372-4829-93b0-0895f9f1ca83"/>
+    <uneume ulx="675" uly="796" name="punctum" pname="E" lry="15" lrx="23" id="5f98fe3d-8dfe-4ae6-9ab1-a073cbb248be"/>
+    <uneume ulx="750" uly="771" name="punctum" pname="G" lry="16" lrx="15" id="84b0245b-7e5e-465f-b8a6-4052946e06a1"/>
+    <uneume ulx="827" uly="771" name="punctum" pname="G" lry="33" lrx="13" id="65ad7fc6-a7e7-4705-a95b-6ae8cf673ee2"/>
+    <uneume ulx="877" uly="770" name="punctum" pname="G" lry="16" lrx="14" id="c8c76c8a-8b0e-4454-9ca3-5d4deb9c0ac0"/>
+    <uneume ulx="916" uly="783" name="punctum" pname="F" lry="34" lrx="13" id="98b8b3f1-9161-4921-bba2-1611b911083e"/>
+    <uneume ulx="984" uly="770" name="punctum" pname="G" lry="16" lrx="13" id="2d67c634-c756-492e-9ec6-926ea92b807a"/>
+    <uneume ulx="1035" uly="784" name="clivis" pname="F" lry="43" lrx="26" id="a27219ed-9e43-4b9d-b878-54d21714eaa1"/>
+  </staff>
+  <staff n="5">
+    <uneume ulx="63" uly="991" name="punctum" pname="E" lry="16" lrx="24" id="c40fd6fe-c157-419d-b636-6b7e3791f8cf"/>
+    <uneume ulx="152" uly="966" name="punctum" pname="G" lry="16" lrx="13" id="1af3718a-515c-4831-85cf-8d98b13d37dd"/>
+    <uneume ulx="189" uly="953" name="epiphonus" pname="F" lry="35" lrx="14" id="507ef701-c36e-40bc-8827-a4f44b005918"/>
+    <uneume ulx="252" uly="952" name="punctum" pname="A" lry="36" lrx="14" id="fbd27317-6a9e-48a7-8dbf-7b4b599701bc"/>
+    <uneume ulx="303" uly="966" name="punctum" pname="G" lry="16" lrx="13" id="5002713f-8814-40bd-8126-45f1ab4c7556"/>
+    <uneume ulx="353" uly="978" name="punctum" pname="F" lry="17" lrx="14" id="80de1a1b-36c8-42e3-8640-fa6e5a3d527f"/>
+    <uneume ulx="417" uly="966" name="punctum" pname="G" lry="16" lrx="12" id="80ccaa99-8ea9-4b82-b56a-f0b8c51c966c"/>
+    <uneume ulx="436" uly="967" name="punctum" pname="G" lry="15" lrx="13" id="5a2d8951-f522-48c4-a14b-112da35d9fa1"/>
+    <uneume ulx="473" uly="990" name="punctum" pname="E" lry="17" lrx="23" id="06ca72a2-8cbe-45e0-b6e5-c4985ed13996"/>
+  </staff>
+  <staff n="6">
+    <uneume ulx="201" uly="1162" name="punctum" pname="E" lry="17" lrx="14" id="ccec4d60-8950-4b50-90e0-4009e04b083d"/>
+    <uneume ulx="263" uly="1176" name="clivis" pname="D" lry="35" lrx="27" id="c7829de3-b1ca-4004-b399-d22015813e9f"/>
+    <uneume ulx="353" uly="1162" name="podatus" pname="D" lry="30" lrx="13" id="f520751e-ccd8-4c78-8059-5fbb3b32a13b"/>
+    <uneume ulx="391" uly="1163" name="punctum" pname="E" lry="16" lrx="22" id="789d6e7d-6b22-49cb-93fd-38765674a2ef"/>
+    <uneume ulx="498" uly="1163" name="punctum" pname="E" lry="16" lrx="13" id="b8e05fda-36b5-4bec-9a0e-1bba14b6de29"/>
+    <uneume ulx="548" uly="1138" name="punctum" pname="G" lry="33" lrx="14" id="633f627b-ccc1-4d02-927d-1c51defc1a11"/>
+    <uneume ulx="587" uly="1127" name="punctum" pname="A" lry="15" lrx="14" id="161dee59-9120-48fa-a1ff-baec650e287c"/>
+    <uneume ulx="655" uly="1138" name="clivis" pname="G" lry="28" lrx="27" id="36082d9f-a43b-481f-85bd-fdd324ef205f"/>
+    <uneume ulx="712" uly="1138" name="punctum" pname="G" lry="16" lrx="14" id="a42a5bd2-194b-4a7c-bb14-02171ffb0879"/>
+    <uneume ulx="750" uly="1139" name="clivis" pname="G" lry="31" lrx="27" id="30b69d01-8724-4bf6-a900-214ebb3fe82d"/>
+    <uneume ulx="820" uly="1164" name="punctum" pname="E" lry="15" lrx="24" id="408d1ab5-c7eb-4056-82df-852ab50a5ed7"/>
+    <uneume ulx="877" uly="1164" name="punctum" pname="E" lry="15" lrx="24" id="af028121-7a1d-470c-b649-7b0b194a8033"/>
+    <uneume ulx="960" uly="1164" name="punctum" pname="E" lry="16" lrx="12" id="9b282680-0a1d-474f-8c27-0c65225af32f"/>
+    <uneume ulx="991" uly="1100" name="punctum" pname="C" lry="16" lrx="16" id="93fe9a49-1828-4d8d-a1ba-bfa0251a18b0"/>
+    <uneume ulx="997" uly="1163" name="clivis" pname="E" lry="33" lrx="26" id="fb6983bb-ab20-4cbd-9a2b-0d08810f7749"/>
+    <uneume ulx="1047" uly="1151" name="punctum" pname="F" lry="16" lrx="14" id="1678b0d5-1cf8-4f87-b8c3-90f882f88c11"/>
+    <uneume ulx="1048" uly="1102" name="punctum" pname="C" lry="14" lrx="13" id="d1bc6b11-ffdc-4052-aab2-6559c10fe6d2"/>
+  </staff>
+  <staff n="7">
+    <uneume ulx="75" uly="1344" name="podatus" pname="D" lry="37" lrx="14" id="d8b30276-d673-4cd4-aeec-65f878eaada2"/>
+    <uneume ulx="131" uly="1351" name="punctum" pname="E" lry="16" lrx="24" id="cb785270-e76e-40e0-950b-5ced1ec8b2a0"/>
+    <uneume ulx="181" uly="1351" name="punctum" pname="E" lry="17" lrx="23" id="af3e11db-5cc0-4f18-ae8c-efe00a65ea3a"/>
+    <uneume ulx="257" uly="1326" name="punctum" pname="G" lry="16" lrx="14" id="b8bfee1a-319c-4f74-81c0-0a78d87af6e0"/>
+    <uneume ulx="334" uly="1327" name="punctum" pname="G" lry="32" lrx="13" id="a73eaf76-4d8e-4876-a769-84d478844656"/>
+    <uneume ulx="422" uly="1313" name="punctum" pname="A" lry="17" lrx="14" id="b4257efc-5705-4913-aa0f-952800e9189b"/>
+    <uneume ulx="460" uly="1326" name="punctum" pname="G" lry="15" lrx="23" id="2b8eaea5-1f83-47f0-81e6-308a83f3a4fc"/>
+    <uneume ulx="568" uly="1338" name="punctum" pname="F" lry="16" lrx="13" id="ac987489-22e4-45e4-8ce8-2ecb8a1e7c19"/>
+    <uneume ulx="617" uly="1327" name="punctum" pname="G" lry="31" lrx="14" id="59d1e3a2-aeca-4af5-9a20-b64cd9f530e6"/>
+    <uneume ulx="655" uly="1314" name="punctum" pname="A" lry="16" lrx="14" id="18114383-df18-4bd7-9744-3af5bfdd9e11"/>
+    <uneume ulx="724" uly="1326" name="clivis" pname="G" lry="33" lrx="28" id="9a3b820a-8167-4d4f-b5a6-e7501f37de14"/>
+    <uneume ulx="781" uly="1326" name="punctum" pname="G" lry="16" lrx="14" id="896d7ea3-fa52-48a5-ab6d-128393042680"/>
+    <uneume ulx="818" uly="1327" name="clivis" pname="G" lry="32" lrx="28" id="8393a770-25e2-4a8a-835f-40b6acd1f278"/>
+    <uneume ulx="888" uly="1350" name="punctum" pname="E" lry="16" lrx="24" id="038bbaee-0a4d-46e9-b831-2a80ca20c4df"/>
+    <uneume ulx="951" uly="1351" name="punctum" pname="E" lry="17" lrx="23" id="79ba7edf-16d6-46b7-b820-21ab43834778"/>
+    <uneume ulx="1039" uly="1338" name="clivis" pname="F" lry="44" lrx="27" id="1405c13e-ccb7-48af-8570-99ab3e6387df"/>
+  </staff>
+  <staff n="8">
+    <uneume ulx="68" uly="1516" name="podatus" pname="F" lry="33" lrx="14" id="3c0d2e82-299c-4b87-9dc5-2b1219ae7ad1"/>
+    <uneume ulx="107" uly="1531" name="punctum" pname="F" lry="16" lrx="14" id="40cc8a13-9a32-4ecc-af27-7a22faee4784"/>
+    <uneume ulx="126" uly="1532" name="clivis" pname="F" lry="36" lrx="26" id="7f84c4e0-488f-40f1-88a6-83f69af70d6e"/>
+    <uneume ulx="176" uly="1557" name="clivis" pname="D" lry="39" lrx="26" id="fc8756e4-c64a-4637-ba78-1f42a17fa90a"/>
+    <uneume ulx="240" uly="1538" name="podatus" pname="D" lry="35" lrx="13" id="b47aaceb-2fee-4150-abc7-2e824f3d9905"/>
+    <uneume ulx="278" uly="1545" name="punctum" pname="E" lry="14" lrx="24" id="5a202bce-729c-446b-bac5-4cf0a6989421"/>
+    <uneume ulx="347" uly="1545" name="punctum" pname="E" lry="15" lrx="14" id="aad8342e-2869-47b4-9d2c-6930087e5492"/>
+    <uneume ulx="417" uly="1557" name="clivis" pname="D" lry="28" lrx="25" id="84e048ac-b284-4094-867f-32d83333f84a"/>
+    <uneume ulx="505" uly="1543" name="podatus" pname="D" lry="30" lrx="14" id="42b38215-5f21-409b-a87c-2bcc28c09b7a"/>
+    <uneume ulx="544" uly="1545" name="punctum" pname="E" lry="15" lrx="23" id="acb9a9f4-6e41-4a17-a850-e9af7911c70b"/>
+    <uneume ulx="651" uly="1545" name="punctum" pname="E" lry="15" lrx="13" id="565409a0-bef4-42be-87da-935e4e2b1553"/>
+    <uneume ulx="700" uly="1518" name="punctum" pname="G" lry="35" lrx="15" id="aea34171-0ec2-41c0-ba79-7d3646a8fad1"/>
+    <uneume ulx="737" uly="1505" name="punctum" pname="A" lry="16" lrx="15" id="510164c1-e5bb-4fb7-8237-9dac50ab5f83"/>
+    <uneume ulx="808" uly="1519" name="clivis" pname="G" lry="31" lrx="26" id="2adce48c-69ee-461c-8801-4cec5fdd5f06"/>
+    <uneume ulx="864" uly="1519" name="punctum" pname="G" lry="15" lrx="15" id="c49acfaf-721b-4cbf-bf59-2d33518a6cca"/>
+    <uneume ulx="903" uly="1519" name="clivis" pname="G" lry="27" lrx="26" id="5a974f3d-a13d-45cb-be24-aa48a0fd3b6d"/>
+    <uneume ulx="968" uly="1544" name="punctum" pname="E" lry="16" lrx="23" id="6c331532-e603-4052-8169-bdf0f7d26c3e"/>
+    <uneume ulx="1030" uly="1544" name="virga" pname="E" lry="22" lrx="13" id="27e813b1-fb63-455d-932d-cadda7a69258"/>
+  </staff>
+  <staff n="9">
+    <uneume ulx="77" uly="1736" name="punctum" pname="E" lry="15" lrx="12" id="d6215899-9d68-4df0-b6b4-85ed0a0a71c8"/>
+    <uneume ulx="114" uly="1734" name="clivis" pname="E" lry="33" lrx="27" id="4f783309-f05a-4157-b113-c11b59169f44"/>
+    <uneume ulx="177" uly="1722" name="punctum" pname="F" lry="17" lrx="14" id="3c17220c-68e8-4122-9e40-0f547afa7b1f"/>
+    <uneume ulx="216" uly="1730" name="podatus" pname="D" lry="36" lrx="13" id="e86f0479-4ec4-421f-90a6-fc9cd27046d2"/>
+    <uneume ulx="291" uly="1736" name="punctum" pname="E" lry="14" lrx="23" id="325e4745-b1a3-408b-bcb9-8040e9084897"/>
+    <uneume ulx="342" uly="1736" name="punctum" pname="E" lry="14" lrx="23" id="774d527f-f65a-4b93-89fa-3694081443df"/>
+  </staff>
+</section>
