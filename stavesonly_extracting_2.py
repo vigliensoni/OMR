@@ -55,7 +55,7 @@ print
 
 #LUfolder = '/Users/gabriel/Documents/imgs/Liber_Usualis_WORK/processed_tifs/'
 #LUfolder = '/Users/gabriel/Desktop/Liber_Usualis_Test_Files'
-LUfolder = '/Users/gabriel/Desktop/omr_copy'
+LUfolder = './img_test/'
 
 for name in dirEntries(LUfolder, True, 'axz'):
 	print name
